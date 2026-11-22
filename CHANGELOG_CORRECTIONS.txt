@@ -1,0 +1,102 @@
+RELEASE v1.2.8 (15 November 2026)
+- New dashboard: the Medical Terminology Library, in the app's navy and blue colours (light and dark themes).
+  Each book has a cover in the lecture's colour carrying the whole cover slide (not cropped), the English and Arabic titles, the call number (MT 01-08) and the slide count; a plate on the shelf edge shows the number of terms and the progress. The side panel is hidden on the dashboard, and the author's name, degrees and affiliation sit at the lower left. Shelves are lit from above; a red ribbon marks a lecture in progress and a star a mastered one.
+- "Continue reading" library card: shows the slide where the student stopped, with a Resume button. The study shortcuts (lecture quiz, clinical cases, word lab, Quick 10, review, my progress) sit under it.
+- The four figures (lectures, key terms, MCQs, learned) moved to the top right as catalogue tabs.
+- On a phone the shelves hold two books each.
+- Lecture viewer, slides, recordings and questions are unchanged from v1.2.7.
+
+RELEASE v1.2.7 (15 November 2026)
+Interactive lecture viewer (no new modes; slides, recordings and questions unchanged):
+- Page turns: slides glide in from the side in the direction of travel. On a computer the mouse wheel or trackpad over the slide also turns the page.
+- Terms come alive: when a slide opens its key terms light up one after another. A counter under the slide shows "Tap the terms: 3 / 7"; tapped terms get a green underline and a small celebration plays when all are explored. Progress is remembered on the device.
+- Follow the teacher: while the explanation plays, the term being spoken glows on the slide in step with the voice.
+- Answer on the slide: on Check Yourself slides a panel beside the slide (below it on a phone) lets the student tap A-D for that slide's five questions and see green/red at once, with the score. Answers are remembered; "Try these again" clears them; a "Hide questions" / "Show questions" button under the slide (or the x on the panel) hides and shows the panel.
+- All motion is switched off when the device asks for reduced motion.
+
+RELEASE v1.2.6 (13 November 2026)
+- New home screen: an interactive library. The eight lectures stand as books on two shelves; hover (or focus) lifts a book and shows its title, Arabic title and progress; click or tap opens the lecture. A red ribbon marks a lecture in progress and a star marks a mastered one.
+- Version label now reads 1.2.6 everywhere (the earlier build still showed 1.2.2).
+- Slides, recordings and questions are unchanged from v1.2.5.
+
+RELEASE v1.2.5 (12 November 2026)
+- Lecture 1, slide 12: the digestive pathway now includes the pharynx (card "Mouth, pharynx"). Narration updated.
+- Lecture 3, slide 38: narration now separates muscle relaxants (cyclobenzaprine, methocarbamol) from antispasticity drugs (baclofen, tizanidine), as on the slide.
+- Lecture 3, slide 42, Q18: option B changed from "Long-bone epiphysis" to "Articular cartilage". Red marrow in adults is also found in epiphyses, so the question had two defensible answers. The answer (A, spongy bone of flat bones) is unchanged.
+- Lecture 4, slide 3: narration example corrected to arteriosclerosis (as on the slide).
+- Lecture 4, slide 24: suffix example -oma now e.g. lipoma (carcinoma is not formed with -oma).
+- Lecture 4, slide 40, Q17: narration question wording matches the slide.
+- Lecture 5, slide 5: narration example for peri- now perianal (as on the slide).
+- The six re-recorded slides (1.12, 3.38, 3.42, 4.3, 4.40, 5.5) were recorded again in both voices, with Arabic text updated to match.
+
+RELEASE v1.2.4 (12 November 2026)
+- Removed the 'Teaching correction' note under slides and the device-voice replacement (corrections.js deleted).
+- All slides now display at the same size.
+- 63 slides whose recording was wrong (54 quiz/answer-key slides and 9 content slides, marked * in SLIDES_TO_REVIEW.txt) were re-recorded in both voices with corrected English and Arabic text. All other slides keep their original recordings.
+- Slides flagged by the audit are listed in SLIDES_TO_REVIEW.txt. Older notes below that mention teaching notes no longer apply.
+- Cache renamed v124.
+
+MEDICAL TERMINOLOGY - RELEASE NOTES v1.2.2 (12 November 2026)
+Content matched to the corrected lectures 1-8 and the revised workbook.
+
+A. SLIDES
+- 162 of the 294 slide images were re-rendered from the corrected PowerPoint decks (and their thumbnails). The other 132 slides were unchanged.
+- The clickable word boxes were rebuilt on those 162 slides so they sit on the new text (about 99% match to the original boxes when tested on unchanged slides; 14 extra boxes added for exact glossary matches).
+
+B. QUESTIONS
+- The lecturer's Check Yourself questions (290 across the eight lectures) were rebuilt from the corrected decks: corrected wording and answer keys, options reordered so the correct letter is spread evenly. Lecture 8 now has 40 questions (the glutamate/umami question replaces the old tongue-map idea). Existing explanations (why) were kept.
+
+C. GLOSSARY
+- 268 English glossary edits applied (meanings, categories, syllables, word-part glosses) plus 16 word-part spelling fixes. US spelling is used throughout (tumor, fiber, behavior, center).
+- Corrected terms include: myasthenia (not myostenia), hypoxia vs hypoxemia, thym/o (two meanings), bisphosphonates, spondyl/o, murmur, kidney/renal pelvis in pyelonephritis, and others in the review files.
+- 35 new entries were added for words introduced by the corrected slides (carcinoma, oxytocin, vestibulocochlear, perianal, ascites and others) and are tappable on the slides. The invented term "pneumoma" was removed. A stale term box (PTA from SEPTA) was removed on Lecture 4 slide 6.
+- 44 term recordings whose words or definitions changed were removed so the app uses the device voice with the corrected text.
+
+D. EXPLANATIONS AND NAVIGATION
+- Checked: all 294 slides open with the matching image, counter, word boxes and explanation; no explanation was found to belong to a different slide.
+- 54 quiz slides had recorded explanations that read the old answer letters. These now read the corrected questions and answers with the device voice.
+- 149 slides carry a teaching note under the slide. On 111 of them (quiz slides and slides with a factual error in the recording) the recorded explanation is replaced by corrected text read by the device voice; on the others the recording plays unchanged and the note explains the update.
+- Viewer change: a note no longer silences the recorded explanation unless it is marked replace:true.
+- Offline cache renamed (v122) so installed copies refresh their stored slides.
+
+E. NOT DONE / TO CHECK
+- The Arabic edits (54 applied) and 35 NEW glossary entries (with word boxes on the slides) are written by automated reviewers and need a check by an Arabic-speaking reviewer: see App_Arabic_and_new_terms_added_for_checking.md. About 120 older entries still have English that differs from the unchanged Arabic.
+- The recorded explanations themselves (English and Arabic) were not re-recorded. Wrong sentences in them are covered by replacement text only on the slides listed in corrections.js.
+- The new terms have no recorded pronunciation; the device voice speaks them.
+- A device speech voice is needed to hear the replacement explanations and the term pronunciations that lost their recording.
+- Test on the target device: install, work offline, and listen to audio.
+
+--- Previous release notes (v1.2.1) ---
+MEDICAL TERMINOLOGY — RELEASE NOTES v1.2.1 (12 November 2026)
+
+A. Opening and slide navigation
+- Extract the complete ZIP before using the app.
+- In the extracted folder, open index.html or double-click OPEN_APP_WINDOWS.bat on Windows.
+- Viewer recalculates 16:9 slide dimensions immediately on navigation and adapts to available width/height.
+- Slide images use object-fit:contain; the original artwork is retained without stretching.
+- Slide thumbnail navigation now scrolls only the thumbnail strip, not the page.
+- Browser installed version gets a new service-worker cache revision.
+
+B. Corrections linked to the uploaded 11 November 2026 error list
+- 48 slide-specific correction notes from all eight lectures, accessible below the matching slide.
+- 41 targeted glossary entries updated, including myostenia/myasthenia terminology.
+- 8 directly identifiable lecture MCQs revised with explicit answer rationales.
+- Stroke case wording and type 1 diabetes explanation revised.
+- Corrections replace original obsolete slide narration with device speech when a compatible voice exists.
+
+C. Software bug fixes
+- Offline-saving busy state reset and failed requests report errors.
+- Service worker waits for cache writes and returns HTTP 416 on invalid audio byte ranges.
+- Code Blue delayed answers recheck the active session, and its result reward is single-use.
+- Male-voice matching no longer accidentally matches the word female.
+- Term playback stops lecture narration; saved quiz records use a new content version.
+
+D. IMPORTANT REMAINING LIMITATIONS
+- The original 294 raster slide images were not redrawn; obsolete wording may still be visible INSIDE them.
+  Always use the expandable Teaching correction panel where supplied.
+- Only 8 MCQs and 41 glossary entries were directly corrected in this uploaded source.
+  The prior error-list document cites 92 MCQ revisions and 212 glossary revisions but does not give
+  the complete revised content. Do not assume those full counts are already applied.
+- A compatible device speech voice is required for spoken replacement of corrected slide explanations.
+- End-to-end offline installation and audible output should be tested on the target user device.
+

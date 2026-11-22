@@ -1,0 +1,4 @@
+Lecture 1 student-facing release — academic clarification panels removed.
+All injected ACADEMIC CLARIFICATION UI components (HTML, CSS, JavaScript and academic_corrections.js) have been removed, not merely hidden.
+The updated slide images and glossary data are preserved. Existing male/female audio is untouched in this CLEAN BASE version.
+For the 52 newly generated HeyGen re-recordings, use the separate installer bundle that contains this clean base ZIP.

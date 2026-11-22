@@ -1,0 +1,9 @@
+Medical Terminology App v1.2.14
+- Preserve male and female recordings 1:1, with no synthetic replacements.
+- Add 20-organ anatomy explorer with interactive terminology.
+- Fix missing-dataset crash.
+- Correct main spelling / medical terminology teaching statements on three lecture PNG-derived WEBP slides.
+- Correct glossary -rrhage/-rrhagia distinction and pericarditis definition; add clickable pericarditis.
+- Disable robotic speech fallback for missing word and definition recordings.
+- Accurately disclose that existing definition recordings use female voice.
+- Regenerate file manifest sizes and cache revision; synchronize app version.

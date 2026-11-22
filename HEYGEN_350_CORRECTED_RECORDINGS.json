@@ -1,0 +1,2814 @@
+[
+  {
+    "target_file": "narr/L1_01.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Good morning, everyone, and welcome to our first lecture in medical terminology. Medicine has its own language, and today you will learn how that language works. The good news is that medical words are not random. Many medical terms are built using meaningful parts, including a root and a suffix, with an optional prefix. Once you understand these building blocks, long and frightening words become easy to read. Let us begin.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "1",
+    "changed_sentences": "4",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=bf6b9c37ebad44d7ac2898014b65b6e6.mp3",
+    "duration_seconds": 25.173
+  },
+  {
+    "target_file": "narr_f/L1_01.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Good morning, everyone, and welcome to our first lecture in medical terminology. Medicine has its own language, and today you will learn how that language works. The good news is that medical words are not random. Many medical terms are built using meaningful parts, including a root and a suffix, with an optional prefix. Once you understand these building blocks, long and frightening words become easy to read. Let us begin.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "1",
+    "changed_sentences": "4",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fb0e9286c81e402999eae3599734f3a0.mp3",
+    "duration_seconds": 24.244
+  },
+  {
+    "target_file": "narr/L1_02.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here is what you should be able to do by the end of today. First, identify the word root or roots, the suffix, and any optional prefix. Second, work out the meaning of a new word using a simple three-step method. Third, recognise the common roots for the main body systems. And fourth, use the common suffixes and prefixes, and then test yourself with twenty multiple-choice questions at the end.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "2",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=d9ba517cdcf6464baee117e47349818e.mp3",
+    "duration_seconds": 24.743
+  },
+  {
+    "target_file": "narr_f/L1_02.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here is what you should be able to do by the end of today. First, identify the word root or roots, the suffix, and any optional prefix. Second, work out the meaning of a new word using a simple three-step method. Third, recognise the common roots for the main body systems. And fourth, use the common suffixes and prefixes, and then test yourself with twenty multiple-choice questions at the end.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "2",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=63a8277135c043d9bdf8a75296b9e33b.mp3",
+    "duration_seconds": 23.547
+  },
+  {
+    "target_file": "narr/L1_03.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Part one is about building medical words. Many medical terms can be understood by separating meaningful word parts, although this approach does not work for every term. We will study prefixes, roots, and suffixes, learn a practical way to analyse unfamiliar medical terms, and build our first words together.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "3",
+    "changed_sentences": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=42be39e239fd4f1e846dd1db71b31f9a.mp3",
+    "duration_seconds": 18.961
+  },
+  {
+    "target_file": "narr_f/L1_03.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Part one is about building medical words. Many medical terms can be understood by separating meaningful word parts, although this approach does not work for every term. We will study prefixes, roots, and suffixes, learn a practical way to analyse unfamiliar medical terms, and build our first words together.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "3",
+    "changed_sentences": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3574d2722580446f9740ead3cc7b8eaa.mp3",
+    "duration_seconds": 18.195
+  },
+  {
+    "target_file": "narr/L1_04.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Look at this slide carefully, because it is the foundation of the whole course. A prefix, when present, appears at the beginning and changes the meaning of the root. For example, tachy means fast, and hypo means under or low. The word root carries the core meaning. It may name a body part, a substance, or a function. For example, cardi means heart and neur means nerve. A suffix comes at the end and can indicate a condition, a specialty, or a procedure. For example, itis means inflammation and ectomy means surgical removal. A combining form consists of a root and a combining vowel, usually o. Thus, cardi is the root, o is the combining vowel, and cardio is the combining form. For cardiology, we combine cardio with logy. Before a suffix that begins with a vowel, the combining vowel is often omitted. For example, cardi plus itis gives carditis.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "4",
+    "changed_sentences": "2,4,5,6,7",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=5bcc67ffcd7f45ba8e905003619e4bde.mp3",
+    "duration_seconds": 57.575
+  },
+  {
+    "target_file": "narr_f/L1_04.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Look at this slide carefully, because it is the foundation of the whole course. A prefix, when present, appears at the beginning and changes the meaning of the root. For example, tachy means fast, and hypo means under or low. The word root carries the core meaning. It may name a body part, a substance, or a function. For example, cardi means heart and neur means nerve. A suffix comes at the end and can indicate a condition, a specialty, or a procedure. For example, itis means inflammation and ectomy means surgical removal. A combining form consists of a root and a combining vowel, usually o. Thus, cardi is the root, o is the combining vowel, and cardio is the combining form. For cardiology, we combine cardio with logy. Before a suffix that begins with a vowel, the combining vowel is often omitted. For example, cardi plus itis gives carditis.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "4",
+    "changed_sentences": "2,4,5,6,7",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ad4aec32dcc24442821931eb995b3bd8.mp3",
+    "duration_seconds": 54.528
+  },
+  {
+    "target_file": "narr/L1_05.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Now, how do you read a word you have never seen? Use this three-step trick: end, beginning, middle. Take pericarditis. Step one, read the suffix first: itis means inflammation, so it tells you what is happening. Step two, read the prefix: peri means around, so it tells you where. Step three, read the root: card means heart, so it tells you which body part. Put it together: pericarditis means inflammation of the pericardium, the sac surrounding the heart.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "5",
+    "changed_sentences": "7",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=2e546cb6741141b5b81781600512f1ac.mp3",
+    "duration_seconds": 31.011
+  },
+  {
+    "target_file": "narr_f/L1_05.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Now, how do you read a word you have never seen? Use this three-step trick: end, beginning, middle. Take pericarditis. Step one, read the suffix first: itis means inflammation, so it tells you what is happening. Step two, read the prefix: peri means around, so it tells you where. Step three, read the root: card means heart, so it tells you which body part. Put it together: pericarditis means inflammation of the pericardium, the sac surrounding the heart.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "5",
+    "changed_sentences": "7",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3d0bec644d574302a9ccc2d9b10ccf80.mp3",
+    "duration_seconds": 28.846
+  },
+  {
+    "target_file": "narr/L1_06.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Let us build some words together. Hyper, meaning excessive, plus glyc, meaning sugar, plus emia, indicating a condition in the blood, gives hyperglycemia, an abnormally high blood glucose concentration. Hypo plus thyroid plus ism gives hypothyroidism, an underactive thyroid gland. Cardio plus logy gives cardiology, the study of the heart. Anti plus bio plus tic gives antibiotic. In clinical use, antibiotics are medicines used to treat bacterial infections. And neuro plus pathy gives neuropathy, disease or dysfunction of the nerves. Notice the tip: a dash shows where the part attaches.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "6",
+    "changed_sentences": "2,4,5,6",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=555325b307a549b481abf91da9003d51.mp3",
+    "duration_seconds": 40.503
+  },
+  {
+    "target_file": "narr_f/L1_06.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Let us build some words together. Hyper, meaning excessive, plus glyc, meaning sugar, plus emia, indicating a condition in the blood, gives hyperglycemia, an abnormally high blood glucose concentration. Hypo plus thyroid plus ism gives hypothyroidism, an underactive thyroid gland. Cardio plus logy gives cardiology, the study of the heart. Anti plus bio plus tic gives antibiotic. In clinical use, antibiotics are medicines used to treat bacterial infections. And neuro plus pathy gives neuropathy, disease or dysfunction of the nerves. Notice the tip: a dash shows where the part attaches.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "6",
+    "changed_sentences": "2,4,5,6",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7cadc1b24d474cc4b00ccf150c86ea07.mp3",
+    "duration_seconds": 38.785
+  },
+  {
+    "target_file": "narr/L1_09.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Now the respiratory system, the airway and lungs. Pulmono means lung. Pneumo can mean lung or air, depending on the term, as in pneumonia or pneumothorax. Broncho means bronchus, as in bronchitis and bronchoscopy. Tracheo is the trachea, or windpipe, as in tracheostomy. Laryngo is the larynx, or voice box, as in laryngitis. Pharyngo is the pharynx, or throat, as in pharyngitis. Rhino and naso mean nose, as in rhinitis and nasal. Pleuro refers to the pleura, the membranes lining the chest wall and covering the lungs, as in pleuritis. Remember that the meaning of pneumo depends on the context.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "9",
+    "changed_sentences": "2,8,9",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=76c844129c624d418297efe1d77504c4.mp3",
+    "duration_seconds": 42.419
+  },
+  {
+    "target_file": "narr_f/L1_09.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Now the respiratory system, the airway and lungs. Pulmono means lung. Pneumo can mean lung or air, depending on the term, as in pneumonia or pneumothorax. Broncho means bronchus, as in bronchitis and bronchoscopy. Tracheo is the trachea, or windpipe, as in tracheostomy. Laryngo is the larynx, or voice box, as in laryngitis. Pharyngo is the pharynx, or throat, as in pharyngitis. Rhino and naso mean nose, as in rhinitis and nasal. Pleuro refers to the pleura, the membranes lining the chest wall and covering the lungs, as in pleuritis. Remember that the meaning of pneumo depends on the context.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "9",
+    "changed_sentences": "2,8,9",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=5707f33f798e4fb9bdd5b3a0717371b7.mp3",
+    "duration_seconds": 39.655
+  },
+  {
+    "target_file": "narr/L1_10.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here is a useful way to remember these roots: follow the path of the air. Air enters through the nose, rhino or naso, then passes through the pharynx, the larynx, the trachea, the bronchi, and the bronchioles before reaching the alveoli, where gas exchange occurs. For example, laryngo plus itis gives laryngitis, inflammation of the larynx, the voice box.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "10",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=265f9306dbc24b228618901ca4782ed7.mp3",
+    "duration_seconds": 22.832
+  },
+  {
+    "target_file": "narr_f/L1_10.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here is a useful way to remember these roots: follow the path of the air. Air enters through the nose, rhino or naso, then passes through the pharynx, the larynx, the trachea, the bronchi, and the bronchioles before reaching the alveoli, where gas exchange occurs. For example, laryngo plus itis gives laryngitis, inflammation of the larynx, the voice box.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "10",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e05f65ed6a4e40e2820e3dda039688fc.mp3",
+    "duration_seconds": 22.078
+  },
+  {
+    "target_file": "narr/L1_11.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Next, the digestive and hepatobiliary system, including the liver, gallbladder and bile ducts. Gastro means stomach, as in gastritis and gastroscopy. Entero means intestine, as in enteritis. Colo and colono mean colon, as in colitis and colonoscopy. Hepato means liver, as in hepatitis and hepatomegaly. Cholecysto means gallbladder, as in cholecystitis. Cholangio refers to the bile ducts, as in cholangiography, an imaging examination of the bile ducts. Pancreato means pancreas, as in pancreatitis. And procto refers to the rectum and anus, as in proctology.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "11",
+    "changed_sentences": "7",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=da8220b6eaab41c5898c90f53949291d.mp3",
+    "duration_seconds": 40.84
+  },
+  {
+    "target_file": "narr_f/L1_11.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Next, the digestive and hepatobiliary system, including the liver, gallbladder and bile ducts. Gastro means stomach, as in gastritis and gastroscopy. Entero means intestine, as in enteritis. Colo and colono mean colon, as in colitis and colonoscopy. Hepato means liver, as in hepatitis and hepatomegaly. Cholecysto means gallbladder, as in cholecystitis. Cholangio refers to the bile ducts, as in cholangiography, an imaging examination of the bile ducts. Pancreato means pancreas, as in pancreatitis. And procto refers to the rectum and anus, as in proctology.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "11",
+    "changed_sentences": "7",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1b8d708c46fd4ba28637e415bddbbf9c.mp3",
+    "duration_seconds": 38.703
+  },
+  {
+    "target_file": "narr/L1_12.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Again, follow the path, this time of food. Food passes from the mouth through the pharynx and esophagus into the stomach, and then through the small intestine and large intestine, including the colon. Look at the three examples. Gastro plus itis is gastritis, inflammation of the stomach. Hepato plus megaly is hepatomegaly, an enlarged liver. And colono plus scopy is colonoscopy, looking inside the colon.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "12",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=8e5cdf5a42714bdab5f54aac3c26ea37.mp3",
+    "duration_seconds": 24.697
+  },
+  {
+    "target_file": "narr_f/L1_12.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Again, follow the path, this time of food. Food passes from the mouth through the pharynx and esophagus into the stomach, and then through the small intestine and large intestine, including the colon. Look at the three examples. Gastro plus itis is gastritis, inflammation of the stomach. Hepato plus megaly is hepatomegaly, an enlarged liver. And colono plus scopy is colonoscopy, looking inside the colon.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "12",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f3bc9b72d4dd4114ae8c3e2132bb6ddb.mp3",
+    "duration_seconds": 25.265
+  },
+  {
+    "target_file": "narr/L1_17.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The endocrine system is made of glands that release hormones into the blood. Endocrino refers to the endocrine glands, as in endocrinology. Thyroido is the thyroid gland, as in hypothyroidism. Adreno is the adrenal gland, as in adrenalectomy. And glyco means sugar, or glucose, as in hyperglycemia. Read it: hyper means excessive, glyc means sugar, and emia refers to a blood condition. Hyperglycemia means an abnormally high concentration of glucose in the blood.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "17",
+    "changed_sentences": "6",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e8bd7cfd592f453cbe1a95c24f71595b.mp3",
+    "duration_seconds": 32.62
+  },
+  {
+    "target_file": "narr_f/L1_17.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The endocrine system is made of glands that release hormones into the blood. Endocrino refers to the endocrine glands, as in endocrinology. Thyroido is the thyroid gland, as in hypothyroidism. Adreno is the adrenal gland, as in adrenalectomy. And glyco means sugar, or glucose, as in hyperglycemia. Read it: hyper means excessive, glyc means sugar, and emia refers to a blood condition. Hyperglycemia means an abnormally high concentration of glucose in the blood.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "17",
+    "changed_sentences": "6",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=41177c01a7fc423e8e5d91b3e3fc151c.mp3",
+    "duration_seconds": 29.566
+  },
+  {
+    "target_file": "narr/L1_19.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here is the first group of suffixes. For inflammation and disease: itis means inflammation, as in arthritis; osis means an abnormal condition, as in cyanosis; pathy means disease, as in neuropathy; and emia means a blood condition, as in anemia. For symptoms and signs: algia and dynia refer to pain, as in neuralgia. The suffix rrhea refers to flow or discharge, as in diarrhea. The separate suffixes rrhage and rrhagia refer to excessive bleeding or hemorrhage. Phobia means fear, as in claustrophobia.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "19",
+    "changed_sentences": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=12eff65fa32f4abc88bd5ee45dc4c897.mp3",
+    "duration_seconds": 36.846
+  },
+  {
+    "target_file": "narr_f/L1_19.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here is the first group of suffixes. For inflammation and disease: itis means inflammation, as in arthritis; osis means an abnormal condition, as in cyanosis; pathy means disease, as in neuropathy; and emia means a blood condition, as in anemia. For symptoms and signs: algia and dynia refer to pain, as in neuralgia. The suffix rrhea refers to flow or discharge, as in diarrhea. The separate suffixes rrhage and rrhagia refer to excessive bleeding or hemorrhage. Phobia means fear, as in claustrophobia.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "19",
+    "changed_sentences": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ecae95c3f17e4eb399dec0ff6ffd7a70.mp3",
+    "duration_seconds": 34.129
+  },
+  {
+    "target_file": "narr/L1_20.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The second group covers growth, numbers and hardening. Oma means a tumor or mass, as in lipoma. Megaly means enlargement, as in cardiomegaly. Plasia means formation or development, as in hyperplasia, an increase in the number of cells. Trophy means growth or nourishment, as in hypertrophy. Penia means deficiency, as in leukopenia, while cytosis commonly indicates an increased number of a particular cell type, as in leukocytosis. Stenosis means narrowing, as in aortic stenosis, and sclerosis means hardening, as in arteriosclerosis.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "20",
+    "changed_sentences": "4,6",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=eead8c3204184b63b0aba3199a29be26.mp3",
+    "duration_seconds": 38.647
+  },
+  {
+    "target_file": "narr_f/L1_20.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The second group covers growth, numbers and hardening. Oma means a tumor or mass, as in lipoma. Megaly means enlargement, as in cardiomegaly. Plasia means formation or development, as in hyperplasia, an increase in the number of cells. Trophy means growth or nourishment, as in hypertrophy. Penia means deficiency, as in leukopenia, while cytosis commonly indicates an increased number of a particular cell type, as in leukocytosis. Stenosis means narrowing, as in aortic stenosis, and sclerosis means hardening, as in arteriosclerosis.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "20",
+    "changed_sentences": "4,6",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a179fa26dc794bd6887425fca34e24ba.mp3",
+    "duration_seconds": 36.073
+  },
+  {
+    "target_file": "narr/L1_21.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The third group covers breakdown and softening. Lysis means breakdown or destruction, as in hemolysis. Malacia means softening, as in osteomalacia. Necrosis means irreversible pathological death of cells or tissue. And cele means a hernia, a bulging out, as in meningocele. On the right are the procedure suffixes: ectomy, surgical removal, as in hysterectomy; scopy, looking inside, as in gastroscopy; ostomy, making an opening, as in tracheostomy; graphy, recording an image, as in angiography; and logy, the study of a subject, as in cardiology.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "21",
+    "changed_sentences": "4",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b3c99ccba03a4ceb9e11199fffe86be5.mp3",
+    "duration_seconds": 39.869
+  },
+  {
+    "target_file": "narr_f/L1_21.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The third group covers breakdown and softening. Lysis means breakdown or destruction, as in hemolysis. Malacia means softening, as in osteomalacia. Necrosis means irreversible pathological death of cells or tissue. And cele means a hernia, a bulging out, as in meningocele. On the right are the procedure suffixes: ectomy, surgical removal, as in hysterectomy; scopy, looking inside, as in gastroscopy; ostomy, making an opening, as in tracheostomy; graphy, recording an image, as in angiography; and logy, the study of a subject, as in cardiology.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "21",
+    "changed_sentences": "4",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0e0e9b93110d4a0dad5173eaecdda5c5.mp3",
+    "duration_seconds": 38.209
+  },
+  {
+    "target_file": "narr/L1_23.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The first group is about direction. Ab means away from, as in abduction, and ad means toward, as in adduction. Circum means around, as in circumoral, around the mouth. Para means beside or near, as in the parathyroid glands, beside the thyroid. And retro means behind, as in retrosternal, behind the sternum. The second group is about inside, outside and change. Endo means within, as in endocardium. Exo means outside, as in exocrine. Meso means middle, as in mesoderm. Ecto means outer, as in ectoderm. Meta can mean change, after, or beyond, depending on the term. Metastasis refers to the spread of a cancer to a distant site.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "23",
+    "changed_sentences": "9",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=37df7652e4384956b1e4b0221422bc66.mp3",
+    "duration_seconds": 48.247
+  },
+  {
+    "target_file": "narr_f/L1_23.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The first group is about direction. Ab means away from, as in abduction, and ad means toward, as in adduction. Circum means around, as in circumoral, around the mouth. Para means beside or near, as in the parathyroid glands, beside the thyroid. And retro means behind, as in retrosternal, behind the sternum. The second group is about inside, outside and change. Endo means within, as in endocardium. Exo means outside, as in exocrine. Meso means middle, as in mesoderm. Ecto means outer, as in ectoderm. Meta can mean change, after, or beyond, depending on the term. Metastasis refers to the spread of a cancer to a distant site.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "23",
+    "changed_sentences": "9",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8615659d45b9435c87a5308c53164d52.mp3",
+    "duration_seconds": 45.309
+  },
+  {
+    "target_file": "narr/L1_24.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Now speed and function. Brady means slow, as in bradycardia, and tachy means fast, as in tachypnea. Dys can mean abnormal, difficult, or painful, as in dysuria. Eu means good or normal, as in eupnea, meaning normal breathing. Iso means equal or the same, as in isotonic. Then self, same and different: auto means self, as in autoimmune; homo means same, as in homogeneous; hetero means different, as in heterogeneous; allo means other, as in allograft; and homeo means same or steady, as in homeostasis.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "24",
+    "changed_sentences": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=7c687006bf664d07be11ea8c0e24c174.mp3",
+    "duration_seconds": 38.297
+  },
+  {
+    "target_file": "narr_f/L1_24.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Now speed and function. Brady means slow, as in bradycardia, and tachy means fast, as in tachypnea. Dys can mean abnormal, difficult, or painful, as in dysuria. Eu means good or normal, as in eupnea, meaning normal breathing. Iso means equal or the same, as in isotonic. Then self, same and different: auto means self, as in autoimmune; homo means same, as in homogeneous; hetero means different, as in heterogeneous; allo means other, as in allograft; and homeo means same or steady, as in homeostasis.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "24",
+    "changed_sentences": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=183c4acaf90442459331cb94eadb6413.mp3",
+    "duration_seconds": 38.065
+  },
+  {
+    "target_file": "narr/L1_25.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "These prefixes tell you how much of the body is involved, and where. Uni means one; hemi means half or one side, as in hemiplegia; multi means many; semi means partly, as in semiconscious; and pan means all, as in pansinusitis. Uni, as in unilateral, means one side only. For position: sub means under or below, as in subcutaneous; epi means upon, as in epidermis; intra means within, as in intravenous; inter means between, as in intercostal; and trans means across or through, as in transdermal.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "25",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=aabffd2473e64b5fb70ee2424c2e68d7.mp3",
+    "duration_seconds": 37.6
+  },
+  {
+    "target_file": "narr_f/L1_25.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "These prefixes tell you how much of the body is involved, and where. Uni means one; hemi means half or one side, as in hemiplegia; multi means many; semi means partly, as in semiconscious; and pan means all, as in pansinusitis. Uni, as in unilateral, means one side only. For position: sub means under or below, as in subcutaneous; epi means upon, as in epidermis; intra means within, as in intravenous; inter means between, as in intercostal; and trans means across or through, as in transdermal.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "25",
+    "changed_sentences": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=040a1b9d45144d7da4f27859d41438c7.mp3",
+    "duration_seconds": 37.647
+  },
+  {
+    "target_file": "narr/L1_26.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Next, prefixes of time, sequence, and number. Pre means before, as in prenatal, and post means after, as in postoperative. Neo means new, as in neonatal, and re means again or back. Remember that peri means around and is a position prefix, not a time prefix. For number: mono means one, bi means two, as in bilateral, and tri means three, as in tricuspid. Poly means many or much, as in polyuria, too much urine, and oligo means few or scanty, as in oliguria, too little urine.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "26",
+    "changed_sentences": "1,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ec4d2fe9b2ce4c629eb8aa3157be4c30.mp3",
+    "duration_seconds": 38.526
+  },
+  {
+    "target_file": "narr_f/L1_26.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Next, prefixes of time, sequence, and number. Pre means before, as in prenatal, and post means after, as in postoperative. Neo means new, as in neonatal, and re means again or back. Remember that peri means around and is a position prefix, not a time prefix. For number: mono means one, bi means two, as in bilateral, and tri means three, as in tricuspid. Poly means many or much, as in polyuria, too much urine, and oligo means few or scanty, as in oliguria, too little urine.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "26",
+    "changed_sentences": "1,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=5b14f21e424c41f99f538bc70da5f250.mp3",
+    "duration_seconds": 37.775
+  },
+  {
+    "target_file": "narr/L1_27.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The last group covers size and amount, and saying no. Micro means small, as in microcyte, a small red blood cell. Macro means large, as in macrocephaly, an abnormally large head. Hyper means too much or high, as in hyperglycemia, and hypo means too little or low, as in hypoglycemia. Pan means all, as in pancytopenia. The prefixes a and an mean without or absence of, as in apnea, cessation of breathing. Anti means against, as in antibiotic, de means removal or loss, as in dehydration, dis means apart, as in dislocation, and contra means against or opposite, as in contraindication, a reason not to give a treatment.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "27",
+    "changed_sentences": "2,5",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1e74f5d327bc43b38ffe85d3c32d0c9f.mp3",
+    "duration_seconds": 46.679
+  },
+  {
+    "target_file": "narr_f/L1_27.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The last group covers size and amount, and saying no. Micro means small, as in microcyte, a small red blood cell. Macro means large, as in macrocephaly, an abnormally large head. Hyper means too much or high, as in hyperglycemia, and hypo means too little or low, as in hypoglycemia. Pan means all, as in pancytopenia. The prefixes a and an mean without or absence of, as in apnea, cessation of breathing. Anti means against, as in antibiotic, de means removal or loss, as in dehydration, dis means apart, as in dislocation, and contra means against or opposite, as in contraindication, a reason not to give a treatment.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "27",
+    "changed_sentences": "2,5",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3345e289f89942359fcd8f22da43f18d.mp3",
+    "duration_seconds": 45.193
+  },
+  {
+    "target_file": "narr/L1_28.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Let us summarise today in four ideas. A prefix, when present, comes first and modifies the meaning, such as hypo for low or tachy for fast. The root carries the central meaning, which may refer to a body part, a substance, or a function, such as cardi or glyc. A suffix appears at the end and may indicate a condition or procedure, such as itis or ectomy. To analyse a medical term, begin with the suffix, then any prefix, and finally the root or roots. Remember that not every term contains all three parts.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "28",
+    "changed_sentences": "2,3,4,5",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a9b2142a8d5041ca8ceba7694c9d14d1.mp3",
+    "duration_seconds": 33.653
+  },
+  {
+    "target_file": "narr_f/L1_28.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Let us summarise today in four ideas. A prefix, when present, comes first and modifies the meaning, such as hypo for low or tachy for fast. The root carries the central meaning, which may refer to a body part, a substance, or a function, such as cardi or glyc. A suffix appears at the end and may indicate a condition or procedure, such as itis or ectomy. To analyse a medical term, begin with the suffix, then any prefix, and finally the root or roots. Remember that not every term contains all three parts.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "28",
+    "changed_sentences": "2,3,4,5",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=00513f4b463d4ec08b2b87d85f12b469.mp3",
+    "duration_seconds": 33.142
+  },
+  {
+    "target_file": "audio/t1969_em.mp3",
+    "kind": "term_word",
+    "voice": "male",
+    "spoken_text": "osteonecrosis",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=57ad1737b3b64b6787ceffc197d65828.mp3",
+    "duration_seconds": 1.237
+  },
+  {
+    "target_file": "audio/t1969_ef.mp3",
+    "kind": "term_word",
+    "voice": "female",
+    "spoken_text": "osteonecrosis",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=289be7fc34874d36a11f6540f22bbfd7.mp3",
+    "duration_seconds": 1.587
+  },
+  {
+    "target_file": "audio/t1969_df.mp3",
+    "kind": "term_definition",
+    "voice": "female",
+    "spoken_text": "Death of bone tissue.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e70303f64e1d4231b45a8562a97ac9e6.mp3",
+    "duration_seconds": 1.582
+  },
+  {
+    "target_file": "audio/t1972_em.mp3",
+    "kind": "term_word",
+    "voice": "male",
+    "spoken_text": "bi/o",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e529667ec40f4a90a55c41abec24fa02.mp3",
+    "duration_seconds": 1.483
+  },
+  {
+    "target_file": "audio/t1972_ef.mp3",
+    "kind": "term_word",
+    "voice": "female",
+    "spoken_text": "bi/o",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d6082bedfd454983bb164fcda36a9917.mp3",
+    "duration_seconds": 1.143
+  },
+  {
+    "target_file": "audio/t1972_df.mp3",
+    "kind": "term_definition",
+    "voice": "female",
+    "spoken_text": "Combining form meaning \"life\".",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8f08ecc0d0d9415bad67a933c3cb0df7.mp3",
+    "duration_seconds": 2.609
+  },
+  {
+    "target_file": "audio/t0111_df.mp3",
+    "kind": "term_definition",
+    "voice": "female",
+    "spoken_text": "Combining form meaning intestine, particularly the small intestine.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=56e7953aa1b14ce1a59279d1547fc3d9.mp3",
+    "duration_seconds": 4.479
+  },
+  {
+    "target_file": "audio/t0152_df.mp3",
+    "kind": "term_definition",
+    "voice": "female",
+    "spoken_text": "Inflammation of the kidney and renal pelvis, usually from bacterial infection.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8fdbac637aec4705abd9f20686cb2155.mp3",
+    "duration_seconds": 4.943
+  },
+  {
+    "target_file": "audio/t0364_df.mp3",
+    "kind": "term_definition",
+    "voice": "female",
+    "spoken_text": "Liver tumor; the term usually refers to hepatocellular carcinoma (a malignant liver tumor).",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=07d925ff49f7450485c99789fff6a158.mp3",
+    "duration_seconds": 5.756
+  },
+  {
+    "target_file": "audio/t2004_em.mp3",
+    "kind": "term_word",
+    "voice": "male",
+    "spoken_text": "-rrhagia",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=492cd24495684decb9351963909ccb2a.mp3",
+    "duration_seconds": 1.46
+  },
+  {
+    "target_file": "audio/t2004_ef.mp3",
+    "kind": "term_word",
+    "voice": "female",
+    "spoken_text": "-rrhagia",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=559e3d6c525242389f3ac546631989aa.mp3",
+    "duration_seconds": 1.085
+  },
+  {
+    "target_file": "audio/t2004_df.mp3",
+    "kind": "term_definition",
+    "voice": "female",
+    "spoken_text": "Suffix denoting excessive bleeding or hemorrhage.",
+    "status": "RECORDING_REQUIRED",
+    "source_slide": "glossary",
+    "changed_sentences": "",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3c40457590cf4757b7de81bff93930ae.mp3",
+    "duration_seconds": 3.294
+  },
+  {
+    "target_file": "narr/L2_02.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "By the end of this lecture you should be able to do four things. Describe the six structural levels from chemicals to an organism, and recognize population as an additional ecological level. Name the main cell types and the four basic tissues. Use anatomical position, body regions, planes, cavities and directional terms correctly. And know the main routes of drug administration. As always, you will finish by testing yourself with twenty multiple-choice questions.",
+    "lecture": 2,
+    "slide": 2,
+    "narration_sentences": [
+      "By the end of this lecture you should be able to do four things.",
+      "Describe the six structural levels from chemicals to an organism, and recognize population as an additional ecological level.",
+      "Name the main cell types and the four basic tissues.",
+      "Use anatomical position, body regions, planes, cavities and directional terms correctly.",
+      "And know the main routes of drug administration.",
+      "As always, you will finish by testing yourself with twenty multiple-choice questions."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=6c06552d6c9142efb30a76b02776b05f.mp3",
+    "duration_seconds": 28.246
+  },
+  {
+    "target_file": "narr_f/L2_02.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "By the end of this lecture you should be able to do four things. Describe the six structural levels from chemicals to an organism, and recognize population as an additional ecological level. Name the main cell types and the four basic tissues. Use anatomical position, body regions, planes, cavities and directional terms correctly. And know the main routes of drug administration. As always, you will finish by testing yourself with twenty multiple-choice questions.",
+    "lecture": 2,
+    "slide": 2,
+    "narration_sentences": [
+      "By the end of this lecture you should be able to do four things.",
+      "Describe the six structural levels from chemicals to an organism, and recognize population as an additional ecological level.",
+      "Name the main cell types and the four basic tissues.",
+      "Use anatomical position, body regions, planes, cavities and directional terms correctly.",
+      "And know the main routes of drug administration.",
+      "As always, you will finish by testing yourself with twenty multiple-choice questions."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8360622209194cdca53d3b9cd87b2863.mp3",
+    "duration_seconds": 27.405
+  },
+  {
+    "target_file": "narr/L2_03.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Part one is about the levels of organization. The body is built in steps, and each level is made from the one before it. Cells form tissues, tissues form organs, organs form systems, and systems form the whole organism. The first six levels describe organization within an individual organism. The seventh, population, is an ecological level beyond the individual.",
+    "lecture": 2,
+    "slide": 3,
+    "narration_sentences": [
+      "Part one is about the levels of organization.",
+      "The body is built in steps, and each level is made from the one before it.",
+      "Cells form tissues, tissues form organs, organs form systems, and systems form the whole organism.",
+      "The first six levels describe organization within an individual organism. The seventh, population, is an ecological level beyond the individual."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=774ee93fc0664e5bbd05421b6f0bd5b9.mp3",
+    "duration_seconds": 24.441
+  },
+  {
+    "target_file": "narr_f/L2_03.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Part one is about the levels of organization. The body is built in steps, and each level is made from the one before it. Cells form tissues, tissues form organs, organs form systems, and systems form the whole organism. The first six levels describe organization within an individual organism. The seventh, population, is an ecological level beyond the individual.",
+    "lecture": 2,
+    "slide": 3,
+    "narration_sentences": [
+      "Part one is about the levels of organization.",
+      "The body is built in steps, and each level is made from the one before it.",
+      "Cells form tissues, tissues form organs, organs form systems, and systems form the whole organism.",
+      "The first six levels describe organization within an individual organism. The seventh, population, is an ecological level beyond the individual."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d26c514cc3a14e7c91d4f282584194b3.mp3",
+    "duration_seconds": 22.526
+  },
+  {
+    "target_file": "narr/L2_04.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here are the seven levels. First, the chemical level: atoms and molecules, the basic building blocks. Second, the cellular level: the cell, the basic unit of life. Third, the tissue level: similar cells working together. Fourth, the organ level: two or more tissues working together, like the heart. Fifth, the organ system: organs working together, like the digestive system. Sixth, the organism: a complete living being, a human. The seventh level shown is ecological rather than anatomical: a population consists of members of the same species living in one area. Notice how each level builds on the one before.",
+    "lecture": 2,
+    "slide": 4,
+    "narration_sentences": [
+      "Here are the seven levels.",
+      "First, the chemical level: atoms and molecules, the basic building blocks.",
+      "Second, the cellular level: the cell, the basic unit of life.",
+      "Third, the tissue level: similar cells working together.",
+      "Fourth, the organ level: two or more tissues working together, like the heart.",
+      "Fifth, the organ system: organs working together, like the digestive system.",
+      "Sixth, the organism: a complete living being, a human.",
+      "The seventh level shown is ecological rather than anatomical: a population consists of members of the same species living in one area.",
+      "Notice how each level builds on the one before."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=4bb791062b2c481c93a3dde4e4806339.mp3",
+    "duration_seconds": 39.609
+  },
+  {
+    "target_file": "narr_f/L2_04.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here are the seven levels. First, the chemical level: atoms and molecules, the basic building blocks. Second, the cellular level: the cell, the basic unit of life. Third, the tissue level: similar cells working together. Fourth, the organ level: two or more tissues working together, like the heart. Fifth, the organ system: organs working together, like the digestive system. Sixth, the organism: a complete living being, a human. The seventh level shown is ecological rather than anatomical: a population consists of members of the same species living in one area. Notice how each level builds on the one before.",
+    "lecture": 2,
+    "slide": 4,
+    "narration_sentences": [
+      "Here are the seven levels.",
+      "First, the chemical level: atoms and molecules, the basic building blocks.",
+      "Second, the cellular level: the cell, the basic unit of life.",
+      "Third, the tissue level: similar cells working together.",
+      "Fourth, the organ level: two or more tissues working together, like the heart.",
+      "Fifth, the organ system: organs working together, like the digestive system.",
+      "Sixth, the organism: a complete living being, a human.",
+      "The seventh level shown is ecological rather than anatomical: a population consists of members of the same species living in one area.",
+      "Notice how each level builds on the one before."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c43082a119554d7286c4368e39844628.mp3",
+    "duration_seconds": 39.388
+  },
+  {
+    "target_file": "narr/L2_06.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "All living things are made of cells, but not all cells are the same. Prokaryotic cells have no true nucleus; their DNA lies in a region called the nucleoid. They have no membrane-bound organelles, and they are small and simple. Bacteria are the classic example. Eukaryotic cells have a true nucleus and membrane-bound organelles. Many animal cells lack a rigid cell wall and vary in shape. Plant cells have cellulose cell walls; photosynthetic plant cells also contain chloroplasts. Plant cells are not always rectangular. Our own cells are eukaryotic.",
+    "lecture": 2,
+    "slide": 6,
+    "narration_sentences": [
+      "All living things are made of cells, but not all cells are the same.",
+      "Prokaryotic cells have no true nucleus; their DNA lies in a region called the nucleoid.",
+      "They have no membrane-bound organelles, and they are small and simple.",
+      "Bacteria are the classic example.",
+      "Eukaryotic cells have a true nucleus and membrane-bound organelles.",
+      "Many animal cells lack a rigid cell wall and vary in shape. Plant cells have cellulose cell walls; photosynthetic plant cells also contain chloroplasts. Plant cells are not always rectangular.",
+      "Our own cells are eukaryotic."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=6ce6c73d59de4d8598e724bdaab30cb7.mp3",
+    "duration_seconds": 35.987
+  },
+  {
+    "target_file": "narr_f/L2_06.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "All living things are made of cells, but not all cells are the same. Prokaryotic cells have no true nucleus; their DNA lies in a region called the nucleoid. They have no membrane-bound organelles, and they are small and simple. Bacteria are the classic example. Eukaryotic cells have a true nucleus and membrane-bound organelles. Many animal cells lack a rigid cell wall and vary in shape. Plant cells have cellulose cell walls; photosynthetic plant cells also contain chloroplasts. Plant cells are not always rectangular. Our own cells are eukaryotic.",
+    "lecture": 2,
+    "slide": 6,
+    "narration_sentences": [
+      "All living things are made of cells, but not all cells are the same.",
+      "Prokaryotic cells have no true nucleus; their DNA lies in a region called the nucleoid.",
+      "They have no membrane-bound organelles, and they are small and simple.",
+      "Bacteria are the classic example.",
+      "Eukaryotic cells have a true nucleus and membrane-bound organelles.",
+      "Many animal cells lack a rigid cell wall and vary in shape. Plant cells have cellulose cell walls; photosynthetic plant cells also contain chloroplasts. Plant cells are not always rectangular.",
+      "Our own cells are eukaryotic."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=808662a4a84746b7895153ed30c90cff.mp3",
+    "duration_seconds": 33.607
+  },
+  {
+    "target_file": "narr/L2_11.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The anatomical position is the standard reference position for describing the body. The person stands upright, facing forward, with the arms at the sides, palms facing forward, and feet directed forward and parallel. Why does this matter? Because every directional term is based on this position. Whatever position the patient is actually lying in, we describe the body as if it were in anatomical position, so we all speak the same language.",
+    "lecture": 2,
+    "slide": 11,
+    "narration_sentences": [
+      "The anatomical position is the standard reference position for describing the body.",
+      "The person stands upright, facing forward, with the arms at the sides, palms facing forward, and feet directed forward and parallel.",
+      "Why does this matter?",
+      "Because every directional term is based on this position.",
+      "Whatever position the patient is actually lying in, we describe the body as if it were in anatomical position, so we all speak the same language."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=5608a208c6e14c68ae96cb68f09158c4.mp3",
+    "duration_seconds": 26.45
+  },
+  {
+    "target_file": "narr_f/L2_11.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The anatomical position is the standard reference position for describing the body. The person stands upright, facing forward, with the arms at the sides, palms facing forward, and feet directed forward and parallel. Why does this matter? Because every directional term is based on this position. Whatever position the patient is actually lying in, we describe the body as if it were in anatomical position, so we all speak the same language.",
+    "lecture": 2,
+    "slide": 11,
+    "narration_sentences": [
+      "The anatomical position is the standard reference position for describing the body.",
+      "The person stands upright, facing forward, with the arms at the sides, palms facing forward, and feet directed forward and parallel.",
+      "Why does this matter?",
+      "Because every directional term is based on this position.",
+      "Whatever position the patient is actually lying in, we describe the body as if it were in anatomical position, so we all speak the same language."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=430031e1ac3e4f7aac08f65af06feb1a.mp3",
+    "duration_seconds": 24.708
+  },
+  {
+    "target_file": "narr/L2_14.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The trunk includes the thoracic region, which is the chest, the abdominal region, and the pelvic region. The abdominopelvic surface is commonly divided into nine regions. In the top row: the right hypochondriac, the epigastric, and the left hypochondriac. In the middle row: the right lumbar, the umbilical, and the left lumbar. In the bottom row: the right iliac, the hypogastric, and the left iliac. Remember that these regions are surface areas. They help us describe where a structure or a pain is located.",
+    "lecture": 2,
+    "slide": 14,
+    "narration_sentences": [
+      "The trunk includes the thoracic region, which is the chest, the abdominal region, and the pelvic region.",
+      "The abdominopelvic surface is commonly divided into nine regions.",
+      "In the top row: the right hypochondriac, the epigastric, and the left hypochondriac.",
+      "In the middle row: the right lumbar, the umbilical, and the left lumbar.",
+      "In the bottom row: the right iliac, the hypogastric, and the left iliac.",
+      "Remember that these regions are surface areas.",
+      "They help us describe where a structure or a pain is located."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=29c393093fce4589b220981f778ba790.mp3",
+    "duration_seconds": 32.376
+  },
+  {
+    "target_file": "narr_f/L2_14.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The trunk includes the thoracic region, which is the chest, the abdominal region, and the pelvic region. The abdominopelvic surface is commonly divided into nine regions. In the top row: the right hypochondriac, the epigastric, and the left hypochondriac. In the middle row: the right lumbar, the umbilical, and the left lumbar. In the bottom row: the right iliac, the hypogastric, and the left iliac. Remember that these regions are surface areas. They help us describe where a structure or a pain is located.",
+    "lecture": 2,
+    "slide": 14,
+    "narration_sentences": [
+      "The trunk includes the thoracic region, which is the chest, the abdominal region, and the pelvic region.",
+      "The abdominopelvic surface is commonly divided into nine regions.",
+      "In the top row: the right hypochondriac, the epigastric, and the left hypochondriac.",
+      "In the middle row: the right lumbar, the umbilical, and the left lumbar.",
+      "In the bottom row: the right iliac, the hypogastric, and the left iliac.",
+      "Remember that these regions are surface areas.",
+      "They help us describe where a structure or a pain is located."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d3c0c2fb698542278955a5a85058e973.mp3",
+    "duration_seconds": 31.006
+  },
+  {
+    "target_file": "narr/L2_18.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The ventral cavity is divided into smaller spaces. The thoracic cavity contains the right and left pleural cavities, each enclosing a lung, while the mediastinum lies between them. Within the mediastinum, the pericardial cavity is the narrow space between the layers of the serous pericardium around the heart. The diaphragm forms the floor of the chest and separates it from the abdomen. Below it, the abdominopelvic cavity has an abdominal part, containing the liver, stomach and intestines, and a pelvic part, containing the bladder and reproductive organs.",
+    "lecture": 2,
+    "slide": 18,
+    "narration_sentences": [
+      "The ventral cavity is divided into smaller spaces.",
+      "The thoracic cavity contains the right and left pleural cavities, each enclosing a lung, while the mediastinum lies between them. Within the mediastinum, the pericardial cavity is the narrow space between the layers of the serous pericardium around the heart.",
+      "The diaphragm forms the floor of the chest and separates it from the abdomen.",
+      "Below it, the abdominopelvic cavity has an abdominal part, containing the liver, stomach and intestines, and a pelvic part, containing the bladder and reproductive organs."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ee74b5ed35d0407faafe43528eefc734.mp3",
+    "duration_seconds": 32.747
+  },
+  {
+    "target_file": "narr_f/L2_18.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The ventral cavity is divided into smaller spaces. The thoracic cavity contains the right and left pleural cavities, each enclosing a lung, while the mediastinum lies between them. Within the mediastinum, the pericardial cavity is the narrow space between the layers of the serous pericardium around the heart. The diaphragm forms the floor of the chest and separates it from the abdomen. Below it, the abdominopelvic cavity has an abdominal part, containing the liver, stomach and intestines, and a pelvic part, containing the bladder and reproductive organs.",
+    "lecture": 2,
+    "slide": 18,
+    "narration_sentences": [
+      "The ventral cavity is divided into smaller spaces.",
+      "The thoracic cavity contains the right and left pleural cavities, each enclosing a lung, while the mediastinum lies between them. Within the mediastinum, the pericardial cavity is the narrow space between the layers of the serous pericardium around the heart.",
+      "The diaphragm forms the floor of the chest and separates it from the abdomen.",
+      "Below it, the abdominopelvic cavity has an abdominal part, containing the liver, stomach and intestines, and a pelvic part, containing the bladder and reproductive organs."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f79b717dcc764bb3b0e01075d7506c21.mp3",
+    "duration_seconds": 31.145
+  },
+  {
+    "target_file": "narr/L2_22.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "More pairs in action. The left lung and the left kidney are on the same side of the body, so they are ipsilateral; the left lung and the right kidney are on opposite sides, so they are contralateral. The ears are bilateral because they are on both sides. The vermiform appendix is a single structure, usually situated in the right lower abdomen, although its position can vary. The heart is internal to the ribcage, and the ribcage is external to the heart. The spinal cord is central, and the nerves are peripheral. On the hand, the palm is the palmar surface and the back of the hand is dorsal. On the foot, the sole is plantar and the top of the foot is dorsal.",
+    "lecture": 2,
+    "slide": 22,
+    "narration_sentences": [
+      "More pairs in action.",
+      "The left lung and the left kidney are on the same side of the body, so they are ipsilateral; the left lung and the right kidney are on opposite sides, so they are contralateral.",
+      "The ears are bilateral because they are on both sides. The vermiform appendix is a single structure, usually situated in the right lower abdomen, although its position can vary.",
+      "The heart is internal to the ribcage, and the ribcage is external to the heart.",
+      "The spinal cord is central, and the nerves are peripheral.",
+      "On the hand, the palm is the palmar surface and the back of the hand is dorsal.",
+      "On the foot, the sole is plantar and the top of the foot is dorsal."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=da5a71d72cc34f089f80e3ffbd946028.mp3",
+    "duration_seconds": 38.476
+  },
+  {
+    "target_file": "narr_f/L2_22.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "More pairs in action. The left lung and the left kidney are on the same side of the body, so they are ipsilateral; the left lung and the right kidney are on opposite sides, so they are contralateral. The ears are bilateral because they are on both sides. The vermiform appendix is a single structure, usually situated in the right lower abdomen, although its position can vary. The heart is internal to the ribcage, and the ribcage is external to the heart. The spinal cord is central, and the nerves are peripheral. On the hand, the palm is the palmar surface and the back of the hand is dorsal. On the foot, the sole is plantar and the top of the foot is dorsal.",
+    "lecture": 2,
+    "slide": 22,
+    "narration_sentences": [
+      "More pairs in action.",
+      "The left lung and the left kidney are on the same side of the body, so they are ipsilateral; the left lung and the right kidney are on opposite sides, so they are contralateral.",
+      "The ears are bilateral because they are on both sides. The vermiform appendix is a single structure, usually situated in the right lower abdomen, although its position can vary.",
+      "The heart is internal to the ribcage, and the ribcage is external to the heart.",
+      "The spinal cord is central, and the nerves are peripheral.",
+      "On the hand, the palm is the palmar surface and the back of the hand is dorsal.",
+      "On the foot, the sole is plantar and the top of the foot is dorsal."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=da1819926923455fb87ded862a45523f.mp3",
+    "duration_seconds": 37.698
+  },
+  {
+    "target_file": "narr/L2_25.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Part five is about the routes of drug administration, in other words, how a medicine gets into the body to reach the place where it acts. Common groups include enteral routes involving the gastrointestinal tract, injectable parenteral routes, and other routes such as inhalation and transdermal delivery. Sublingual drugs are absorbed through the oral mucosa rather than being swallowed.",
+    "lecture": 2,
+    "slide": 25,
+    "narration_sentences": [
+      "Part five is about the routes of drug administration, in other words, how a medicine gets into the body to reach the place where it acts.",
+      "Common groups include enteral routes involving the gastrointestinal tract, injectable parenteral routes, and other routes such as inhalation and transdermal delivery. Sublingual drugs are absorbed through the oral mucosa rather than being swallowed."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=2550805ec9f6496f8bbb6f1cef2a9e61.mp3",
+    "duration_seconds": 21.904
+  },
+  {
+    "target_file": "narr_f/L2_25.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Part five is about the routes of drug administration, in other words, how a medicine gets into the body to reach the place where it acts. Common groups include enteral routes involving the gastrointestinal tract, injectable parenteral routes, and other routes such as inhalation and transdermal delivery. Sublingual drugs are absorbed through the oral mucosa rather than being swallowed.",
+    "lecture": 2,
+    "slide": 25,
+    "narration_sentences": [
+      "Part five is about the routes of drug administration, in other words, how a medicine gets into the body to reach the place where it acts.",
+      "Common groups include enteral routes involving the gastrointestinal tract, injectable parenteral routes, and other routes such as inhalation and transdermal delivery. Sublingual drugs are absorbed through the oral mucosa rather than being swallowed."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=19e70eb98a904c6fa6051913765efd6a.mp3",
+    "duration_seconds": 21.428
+  },
+  {
+    "target_file": "narr/L2_26.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Enteral means through the gut. The oral route, written P O, means the drug is swallowed. Sublingual, S L, means under the tongue, where the drug can be absorbed across the oral mucosa without first passing through the stomach. Rectal, P R, means into the rectum. Parenteral routes bypass the gut. Intradermal, I D, means injection into the dermis, the skin layer beneath the epidermis. Subcutaneous, S C, is into the fat beneath the skin. Intramuscular, I M, is into the muscle. And intravenous, I V, is directly into a vein. Notice how the prefixes you learned in lecture one, like sub and intra, tell you exactly where the drug goes.",
+    "lecture": 2,
+    "slide": 26,
+    "narration_sentences": [
+      "Enteral means through the gut.",
+      "The oral route, written P O, means the drug is swallowed.",
+      "Sublingual, S L, means under the tongue, where the drug can be absorbed across the oral mucosa without first passing through the stomach.",
+      "Rectal, P R, means into the rectum.",
+      "Parenteral routes bypass the gut.",
+      "Intradermal, I D, means injection into the dermis, the skin layer beneath the epidermis.",
+      "Subcutaneous, S C, is into the fat beneath the skin.",
+      "Intramuscular, I M, is into the muscle.",
+      "And intravenous, I V, is directly into a vein.",
+      "Notice how the prefixes you learned in lecture one, like sub and intra, tell you exactly where the drug goes."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e8cda4645ad94c82b1ef20418206020d.mp3",
+    "duration_seconds": 43.057
+  },
+  {
+    "target_file": "narr_f/L2_26.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Enteral means through the gut. The oral route, written P O, means the drug is swallowed. Sublingual, S L, means under the tongue, where the drug can be absorbed across the oral mucosa without first passing through the stomach. Rectal, P R, means into the rectum. Parenteral routes bypass the gut. Intradermal, I D, means injection into the dermis, the skin layer beneath the epidermis. Subcutaneous, S C, is into the fat beneath the skin. Intramuscular, I M, is into the muscle. And intravenous, I V, is directly into a vein. Notice how the prefixes you learned in lecture one, like sub and intra, tell you exactly where the drug goes.",
+    "lecture": 2,
+    "slide": 26,
+    "narration_sentences": [
+      "Enteral means through the gut.",
+      "The oral route, written P O, means the drug is swallowed.",
+      "Sublingual, S L, means under the tongue, where the drug can be absorbed across the oral mucosa without first passing through the stomach.",
+      "Rectal, P R, means into the rectum.",
+      "Parenteral routes bypass the gut.",
+      "Intradermal, I D, means injection into the dermis, the skin layer beneath the epidermis.",
+      "Subcutaneous, S C, is into the fat beneath the skin.",
+      "Intramuscular, I M, is into the muscle.",
+      "And intravenous, I V, is directly into a vein.",
+      "Notice how the prefixes you learned in lecture one, like sub and intra, tell you exactly where the drug goes."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=de0a1d847af347cabe033a799f7bb9eb.mp3",
+    "duration_seconds": 41.385
+  },
+  {
+    "target_file": "narr/L2_27.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here are more parenteral routes. Intra-articular means into a joint space. Intrathecal medication is delivered into cerebrospinal fluid, usually in the subarachnoid space within the spinal canal. Epidural means into the epidural space, outside the dura mater and inside the vertebral canal. Inhalation delivers a drug through the respiratory tract; it is not an injection route. Transdermal means it is absorbed through the skin, usually from a patch. And topical means it is applied directly to the skin or to mucous membranes.",
+    "lecture": 2,
+    "slide": 27,
+    "narration_sentences": [
+      "Here are more parenteral routes.",
+      "Intra-articular means into a joint space.",
+      "Intrathecal medication is delivered into cerebrospinal fluid, usually in the subarachnoid space within the spinal canal.",
+      "Epidural means into the epidural space, outside the dura mater and inside the vertebral canal.",
+      "Inhalation delivers a drug through the respiratory tract; it is not an injection route.",
+      "Transdermal means it is absorbed through the skin, usually from a patch.",
+      "And topical means it is applied directly to the skin or to mucous membranes."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1167631a05e74d0d9cb0afe1c04e396c.mp3",
+    "duration_seconds": 32.202
+  },
+  {
+    "target_file": "narr_f/L2_27.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here are more parenteral routes. Intra-articular means into a joint space. Intrathecal medication is delivered into cerebrospinal fluid, usually in the subarachnoid space within the spinal canal. Epidural means into the epidural space, outside the dura mater and inside the vertebral canal. Inhalation delivers a drug through the respiratory tract; it is not an injection route. Transdermal means it is absorbed through the skin, usually from a patch. And topical means it is applied directly to the skin or to mucous membranes.",
+    "lecture": 2,
+    "slide": 27,
+    "narration_sentences": [
+      "Here are more parenteral routes.",
+      "Intra-articular means into a joint space.",
+      "Intrathecal medication is delivered into cerebrospinal fluid, usually in the subarachnoid space within the spinal canal.",
+      "Epidural means into the epidural space, outside the dura mater and inside the vertebral canal.",
+      "Inhalation delivers a drug through the respiratory tract; it is not an injection route.",
+      "Transdermal means it is absorbed through the skin, usually from a patch.",
+      "And topical means it is applied directly to the skin or to mucous membranes."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=da88e92d40ac46dd8de1143ad6d76112.mp3",
+    "duration_seconds": 30.286
+  },
+  {
+    "target_file": "narr/L3_04.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here are three more roots. The combining form periost-o refers to the periosteum, the membrane covering the outer surface of bone, apart from articular surfaces, as in periostitis. Osteo also appears in words about bone growth, such as osteogenesis, the formation of bone, and osteoblast, the cell that builds bone. And calcaneo refers to the heel bone, the calcaneus, as in calcaneal.",
+    "lecture": 3,
+    "slide": 4,
+    "narration_sentences": [
+      "Here are three more roots.",
+      "The combining form periost-o refers to the periosteum, the membrane covering the outer surface of bone, apart from articular surfaces, as in periostitis.",
+      "Osteo also appears in words about bone growth, such as osteogenesis, the formation of bone, and osteoblast, the cell that builds bone.",
+      "And calcaneo refers to the heel bone, the calcaneus, as in calcaneal."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1d3dd415e5844b0186ab30cd9d62c848.mp3",
+    "duration_seconds": 26.924
+  },
+  {
+    "target_file": "narr_f/L3_04.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here are three more roots. The combining form periost-o refers to the periosteum, the membrane covering the outer surface of bone, apart from articular surfaces, as in periostitis. Osteo also appears in words about bone growth, such as osteogenesis, the formation of bone, and osteoblast, the cell that builds bone. And calcaneo refers to the heel bone, the calcaneus, as in calcaneal.",
+    "lecture": 3,
+    "slide": 4,
+    "narration_sentences": [
+      "Here are three more roots.",
+      "The combining form periost-o refers to the periosteum, the membrane covering the outer surface of bone, apart from articular surfaces, as in periostitis.",
+      "Osteo also appears in words about bone growth, such as osteogenesis, the formation of bone, and osteoblast, the cell that builds bone.",
+      "And calcaneo refers to the heel bone, the calcaneus, as in calcaneal."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a6751a1f356b434a9e5feab759b7d594.mp3",
+    "duration_seconds": 23.895
+  },
+  {
+    "target_file": "narr/L3_09.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The skeleton has two divisions. The axial skeleton has eighty bones: the twenty-two bones of the skull, including the mandible, the six auditory ossicles, the hyoid bone, the adult vertebral column with twenty-six bones, the sternum and twelve pairs of ribs. It provides support and protection. The appendicular skeleton has one hundred and twenty-six bones: the shoulder girdle, which is the clavicle and the scapula, the upper limbs, the pelvic girdle, which is the hip bones, and the lower limbs. It is mainly for movement and walking.",
+    "lecture": 3,
+    "slide": 9,
+    "narration_sentences": [
+      "The skeleton has two divisions.",
+      "The axial skeleton has eighty bones: the twenty-two bones of the skull, including the mandible, the six auditory ossicles, the hyoid bone, the adult vertebral column with twenty-six bones, the sternum and twelve pairs of ribs.",
+      "It provides support and protection.",
+      "The appendicular skeleton has one hundred and twenty-six bones: the shoulder girdle, which is the clavicle and the scapula, the upper limbs, the pelvic girdle, which is the hip bones, and the lower limbs.",
+      "It is mainly for movement and walking."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a0d85aee5a2743b19890847c3b5397cc.mp3",
+    "duration_seconds": 33.345
+  },
+  {
+    "target_file": "narr_f/L3_09.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The skeleton has two divisions. The axial skeleton has eighty bones: the twenty-two bones of the skull, including the mandible, the six auditory ossicles, the hyoid bone, the adult vertebral column with twenty-six bones, the sternum and twelve pairs of ribs. It provides support and protection. The appendicular skeleton has one hundred and twenty-six bones: the shoulder girdle, which is the clavicle and the scapula, the upper limbs, the pelvic girdle, which is the hip bones, and the lower limbs. It is mainly for movement and walking.",
+    "lecture": 3,
+    "slide": 9,
+    "narration_sentences": [
+      "The skeleton has two divisions.",
+      "The axial skeleton has eighty bones: the twenty-two bones of the skull, including the mandible, the six auditory ossicles, the hyoid bone, the adult vertebral column with twenty-six bones, the sternum and twelve pairs of ribs.",
+      "It provides support and protection.",
+      "The appendicular skeleton has one hundred and twenty-six bones: the shoulder girdle, which is the clavicle and the scapula, the upper limbs, the pelvic girdle, which is the hip bones, and the lower limbs.",
+      "It is mainly for movement and walking."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4aef818b52364bb7a6d59943bc363aea.mp3",
+    "duration_seconds": 31.766
+  },
+  {
+    "target_file": "narr/L3_12.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The thoracic cage protects the heart and lungs. It is made of the sternum and twelve pairs of ribs. The sternum has three parts: the manubrium at the top, the body in the middle, and the xiphoid process at the tip. Ribs one to seven are true ribs, each connected to the sternum by its own costal cartilage. Ribs eight to ten are false ribs that connect indirectly to the sternum through the cartilage above. Ribs eleven and twelve are floating ribs without an anterior attachment to the sternum.",
+    "lecture": 3,
+    "slide": 12,
+    "narration_sentences": [
+      "The thoracic cage protects the heart and lungs.",
+      "It is made of the sternum and twelve pairs of ribs.",
+      "The sternum has three parts: the manubrium at the top, the body in the middle, and the xiphoid process at the tip.",
+      "Ribs one to seven are true ribs, each connected to the sternum by its own costal cartilage.",
+      "Ribs eight to ten are false ribs that connect indirectly to the sternum through the cartilage above. Ribs eleven and twelve are floating ribs without an anterior attachment to the sternum."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=08cd324394544eeea220b64711812acb.mp3",
+    "duration_seconds": 28.935
+  },
+  {
+    "target_file": "narr_f/L3_12.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The thoracic cage protects the heart and lungs. It is made of the sternum and twelve pairs of ribs. The sternum has three parts: the manubrium at the top, the body in the middle, and the xiphoid process at the tip. Ribs one to seven are true ribs, each connected to the sternum by its own costal cartilage. Ribs eight to ten are false ribs that connect indirectly to the sternum through the cartilage above. Ribs eleven and twelve are floating ribs without an anterior attachment to the sternum.",
+    "lecture": 3,
+    "slide": 12,
+    "narration_sentences": [
+      "The thoracic cage protects the heart and lungs.",
+      "It is made of the sternum and twelve pairs of ribs.",
+      "The sternum has three parts: the manubrium at the top, the body in the middle, and the xiphoid process at the tip.",
+      "Ribs one to seven are true ribs, each connected to the sternum by its own costal cartilage.",
+      "Ribs eight to ten are false ribs that connect indirectly to the sternum through the cartilage above. Ribs eleven and twelve are floating ribs without an anterior attachment to the sternum."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fcf083bab41841e3a8ef4bea2bb01695.mp3",
+    "duration_seconds": 27.523
+  },
+  {
+    "target_file": "narr/L3_15.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Joints can be classified structurally by the tissue linking the bones and whether a joint cavity is present. Their functional mobility varies with joint type. Fibrous joints have no cavity and are joined by fibrous tissue; they are immovable or slightly movable. The sutures of the skull and the gomphosis that holds a tooth are immovable, while the syndesmosis between the radius and ulna allows slight movement. Cartilaginous joints also have no cavity; they are joined by cartilage and are immovable or slightly movable. A synchondrosis, such as the joint between the first rib and the sternum, is immovable, while a symphysis, such as an intervertebral disc or the pubic symphysis, is slightly movable. Synovial joints have a synovial cavity and an articular capsule, and they are freely movable, like the knee.",
+    "lecture": 3,
+    "slide": 15,
+    "narration_sentences": [
+      "Joints can be classified structurally by the tissue linking the bones and whether a joint cavity is present. Their functional mobility varies with joint type.",
+      "Fibrous joints have no cavity and are joined by fibrous tissue; they are immovable or slightly movable.",
+      "The sutures of the skull and the gomphosis that holds a tooth are immovable, while the syndesmosis between the radius and ulna allows slight movement.",
+      "Cartilaginous joints also have no cavity; they are joined by cartilage and are immovable or slightly movable.",
+      "A synchondrosis, such as the joint between the first rib and the sternum, is immovable, while a symphysis, such as an intervertebral disc or the pubic symphysis, is slightly movable.",
+      "Synovial joints have a synovial cavity and an articular capsule, and they are freely movable, like the knee."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=04b919772fac42ff981fe1ac878e0a96.mp3",
+    "duration_seconds": 48.352
+  },
+  {
+    "target_file": "narr_f/L3_15.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Joints can be classified structurally by the tissue linking the bones and whether a joint cavity is present. Their functional mobility varies with joint type. Fibrous joints have no cavity and are joined by fibrous tissue; they are immovable or slightly movable. The sutures of the skull and the gomphosis that holds a tooth are immovable, while the syndesmosis between the radius and ulna allows slight movement. Cartilaginous joints also have no cavity; they are joined by cartilage and are immovable or slightly movable. A synchondrosis, such as the joint between the first rib and the sternum, is immovable, while a symphysis, such as an intervertebral disc or the pubic symphysis, is slightly movable. Synovial joints have a synovial cavity and an articular capsule, and they are freely movable, like the knee.",
+    "lecture": 3,
+    "slide": 15,
+    "narration_sentences": [
+      "Joints can be classified structurally by the tissue linking the bones and whether a joint cavity is present. Their functional mobility varies with joint type.",
+      "Fibrous joints have no cavity and are joined by fibrous tissue; they are immovable or slightly movable.",
+      "The sutures of the skull and the gomphosis that holds a tooth are immovable, while the syndesmosis between the radius and ulna allows slight movement.",
+      "Cartilaginous joints also have no cavity; they are joined by cartilage and are immovable or slightly movable.",
+      "A synchondrosis, such as the joint between the first rib and the sternum, is immovable, while a symphysis, such as an intervertebral disc or the pubic symphysis, is slightly movable.",
+      "Synovial joints have a synovial cavity and an articular capsule, and they are freely movable, like the knee."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=dad893117a914da7ab345b45098e4278.mp3",
+    "duration_seconds": 45.789
+  },
+  {
+    "target_file": "narr/L3_17.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Now the bone disorders. Osteoporosis is low bone density with fragile bones. Osteomalacia is defective mineralization of existing bone, typically in adults. Rickets is defective mineralization at the growing bone and growth plates in children and can cause bowed legs. They are related but not identical conditions. Osteomyelitis is a bone infection. Osteosarcoma is a malignant bone tumor. A fracture is a break in a bone. And Paget disease is abnormal bone remodelling. Look at the word parts at the bottom: porosis means porous, malacia means softening, and sarcoma means a malignant tumor.",
+    "lecture": 3,
+    "slide": 17,
+    "narration_sentences": [
+      "Now the bone disorders.",
+      "Osteoporosis is low bone density with fragile bones.",
+      "Osteomalacia is defective mineralization of existing bone, typically in adults. Rickets is defective mineralization at the growing bone and growth plates in children and can cause bowed legs. They are related but not identical conditions.",
+      "Osteomyelitis is a bone infection.",
+      "Osteosarcoma is a malignant bone tumor.",
+      "A fracture is a break in a bone.",
+      "And Paget disease is abnormal bone remodelling.",
+      "Look at the word parts at the bottom: porosis means porous, malacia means softening, and sarcoma means a malignant tumor."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ab2babd4e00b4f98a2dcbf952959be94.mp3",
+    "duration_seconds": 38.97
+  },
+  {
+    "target_file": "narr_f/L3_17.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Now the bone disorders. Osteoporosis is low bone density with fragile bones. Osteomalacia is defective mineralization of existing bone, typically in adults. Rickets is defective mineralization at the growing bone and growth plates in children and can cause bowed legs. They are related but not identical conditions. Osteomyelitis is a bone infection. Osteosarcoma is a malignant bone tumor. A fracture is a break in a bone. And Paget disease is abnormal bone remodelling. Look at the word parts at the bottom: porosis means porous, malacia means softening, and sarcoma means a malignant tumor.",
+    "lecture": 3,
+    "slide": 17,
+    "narration_sentences": [
+      "Now the bone disorders.",
+      "Osteoporosis is low bone density with fragile bones.",
+      "Osteomalacia is defective mineralization of existing bone, typically in adults. Rickets is defective mineralization at the growing bone and growth plates in children and can cause bowed legs. They are related but not identical conditions.",
+      "Osteomyelitis is a bone infection.",
+      "Osteosarcoma is a malignant bone tumor.",
+      "A fracture is a break in a bone.",
+      "And Paget disease is abnormal bone remodelling.",
+      "Look at the word parts at the bottom: porosis means porous, malacia means softening, and sarcoma means a malignant tumor."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b75c3f9b4b7b4d09a28a284d1ac61cda.mp3",
+    "duration_seconds": 35.952
+  },
+  {
+    "target_file": "narr/L3_19.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "The spine can develop abnormal curves. Scoliosis is an abnormal lateral curvature of the spine, commonly accompanied by vertebral rotation. Excessive thoracic kyphosis is an abnormally increased posterior convexity; normal thoracic kyphosis is physiological. Excessive lumbar lordosis, or hyperlordosis, is a greater than normal inward curve; some lumbar lordosis is physiological. A herniated disc can compress or irritate a nerve, while spinal stenosis means narrowing of the spinal canal. And remember the difference: a sprain is an injury to a ligament, while a strain is an injury to a muscle or tendon.",
+    "lecture": 3,
+    "slide": 19,
+    "narration_sentences": [
+      "The spine can develop abnormal curves.",
+      "Scoliosis is an abnormal lateral curvature of the spine, commonly accompanied by vertebral rotation.",
+      "Excessive thoracic kyphosis is an abnormally increased posterior convexity; normal thoracic kyphosis is physiological.",
+      "Excessive lumbar lordosis, or hyperlordosis, is a greater than normal inward curve; some lumbar lordosis is physiological.",
+      "A herniated disc can compress or irritate a nerve, while spinal stenosis means narrowing of the spinal canal.",
+      "And remember the difference: a sprain is an injury to a ligament, while a strain is an injury to a muscle or tendon."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=271a57739c914f809043de25f8d53147.mp3",
+    "duration_seconds": 40.462
+  },
+  {
+    "target_file": "narr_f/L3_19.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "The spine can develop abnormal curves. Scoliosis is an abnormal lateral curvature of the spine, commonly accompanied by vertebral rotation. Excessive thoracic kyphosis is an abnormally increased posterior convexity; normal thoracic kyphosis is physiological. Excessive lumbar lordosis, or hyperlordosis, is a greater than normal inward curve; some lumbar lordosis is physiological. A herniated disc can compress or irritate a nerve, while spinal stenosis means narrowing of the spinal canal. And remember the difference: a sprain is an injury to a ligament, while a strain is an injury to a muscle or tendon.",
+    "lecture": 3,
+    "slide": 19,
+    "narration_sentences": [
+      "The spine can develop abnormal curves.",
+      "Scoliosis is an abnormal lateral curvature of the spine, commonly accompanied by vertebral rotation.",
+      "Excessive thoracic kyphosis is an abnormally increased posterior convexity; normal thoracic kyphosis is physiological.",
+      "Excessive lumbar lordosis, or hyperlordosis, is a greater than normal inward curve; some lumbar lordosis is physiological.",
+      "A herniated disc can compress or irritate a nerve, while spinal stenosis means narrowing of the spinal canal.",
+      "And remember the difference: a sprain is an injury to a ligament, while a strain is an injury to a muscle or tendon."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=34154425fcfe49ec9435bcc703b3e015.mp3",
+    "duration_seconds": 38.105
+  },
+  {
+    "target_file": "narr/L3_25.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "There are four groups of medicines for the skeletal system. For pain and inflammation we use analgesics, NSAIDs and corticosteroids. For bone health we use calcium supplements, and vitamin D, which helps calcium absorption. Anti-resorptive treatments include bisphosphonates; calcitonin has a limited role in current osteoporosis management, and other therapies include denosumab and bone-anabolic agents for selected patients. And for inflammatory joint disease, DMARDs and biologics slow autoimmune arthritis by acting on the immune system. Remember the caution on the slide: these medicines should be used only under medical supervision.",
+    "lecture": 3,
+    "slide": 25,
+    "narration_sentences": [
+      "There are four groups of medicines for the skeletal system.",
+      "For pain and inflammation we use analgesics, NSAIDs and corticosteroids.",
+      "For bone health we use calcium supplements, and vitamin D, which helps calcium absorption.",
+      "Anti-resorptive treatments include bisphosphonates; calcitonin has a limited role in current osteoporosis management, and other therapies include denosumab and bone-anabolic agents for selected patients.",
+      "And for inflammatory joint disease, DMARDs and biologics slow autoimmune arthritis by acting on the immune system.",
+      "Remember the caution on the slide: these medicines should be used only under medical supervision."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=13f0c9e6a3ac42058181022fe167dd77.mp3",
+    "duration_seconds": 37.484
+  },
+  {
+    "target_file": "narr_f/L3_25.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "There are four groups of medicines for the skeletal system. For pain and inflammation we use analgesics, NSAIDs and corticosteroids. For bone health we use calcium supplements, and vitamin D, which helps calcium absorption. Anti-resorptive treatments include bisphosphonates; calcitonin has a limited role in current osteoporosis management, and other therapies include denosumab and bone-anabolic agents for selected patients. And for inflammatory joint disease, DMARDs and biologics slow autoimmune arthritis by acting on the immune system. Remember the caution on the slide: these medicines should be used only under medical supervision.",
+    "lecture": 3,
+    "slide": 25,
+    "narration_sentences": [
+      "There are four groups of medicines for the skeletal system.",
+      "For pain and inflammation we use analgesics, NSAIDs and corticosteroids.",
+      "For bone health we use calcium supplements, and vitamin D, which helps calcium absorption.",
+      "Anti-resorptive treatments include bisphosphonates; calcitonin has a limited role in current osteoporosis management, and other therapies include denosumab and bone-anabolic agents for selected patients.",
+      "And for inflammatory joint disease, DMARDs and biologics slow autoimmune arthritis by acting on the immune system.",
+      "Remember the caution on the slide: these medicines should be used only under medical supervision."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b29b33daf7ea425ab7564c774224121c.mp3",
+    "duration_seconds": 37.856
+  },
+  {
+    "target_file": "narr/L3_27.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Three more muscle roots. Teno means tendon, as in tenotomy, cutting a tendon, and tenodesis, fixing a tendon surgically. The combining form sarc-o means flesh. Sarcoma is a malignant tumor of mesenchymal tissues, and the sarcolemma is the cell membrane of a muscle fiber. The root itself does not specifically mean connective tissue. And kinesio means movement, as in kinesiology, the study of movement, and dyskinesia, abnormal movement.",
+    "lecture": 3,
+    "slide": 27,
+    "narration_sentences": [
+      "Three more muscle roots.",
+      "Teno means tendon, as in tenotomy, cutting a tendon, and tenodesis, fixing a tendon surgically.",
+      "The combining form sarc-o means flesh. Sarcoma is a malignant tumor of mesenchymal tissues, and the sarcolemma is the cell membrane of a muscle fiber. The root itself does not specifically mean connective tissue.",
+      "And kinesio means movement, as in kinesiology, the study of movement, and dyskinesia, abnormal movement."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=5916fbb901264281b083ccc537efc7ce.mp3",
+    "duration_seconds": 29.74
+  },
+  {
+    "target_file": "narr_f/L3_27.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Three more muscle roots. Teno means tendon, as in tenotomy, cutting a tendon, and tenodesis, fixing a tendon surgically. The combining form sarc-o means flesh. Sarcoma is a malignant tumor of mesenchymal tissues, and the sarcolemma is the cell membrane of a muscle fiber. The root itself does not specifically mean connective tissue. And kinesio means movement, as in kinesiology, the study of movement, and dyskinesia, abnormal movement.",
+    "lecture": 3,
+    "slide": 27,
+    "narration_sentences": [
+      "Three more muscle roots.",
+      "Teno means tendon, as in tenotomy, cutting a tendon, and tenodesis, fixing a tendon surgically.",
+      "The combining form sarc-o means flesh. Sarcoma is a malignant tumor of mesenchymal tissues, and the sarcolemma is the cell membrane of a muscle fiber. The root itself does not specifically mean connective tissue.",
+      "And kinesio means movement, as in kinesiology, the study of movement, and dyskinesia, abnormal movement."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ee37d2bd12ee4251bd3c4a61b2919717.mp3",
+    "duration_seconds": 28.591
+  },
+  {
+    "target_file": "narr/L3_34.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Here are common muscular disorders. A muscle strain is overstretching or tearing of muscle fibres. Tendinitis is inflammation of a tendon. Myositis is inflammation of muscle tissue. Muscular dystrophies are a group of genetic disorders characterized by progressive muscle degeneration and weakness. Fibromyalgia is chronic, widespread pain and tenderness. And rhabdomyolysis is severe muscle breakdown, which releases muscle contents into the blood and can damage the kidneys.",
+    "lecture": 3,
+    "slide": 34,
+    "narration_sentences": [
+      "Here are common muscular disorders.",
+      "A muscle strain is overstretching or tearing of muscle fibres.",
+      "Tendinitis is inflammation of a tendon.",
+      "Myositis is inflammation of muscle tissue.",
+      "Muscular dystrophies are a group of genetic disorders characterized by progressive muscle degeneration and weakness.",
+      "Fibromyalgia is chronic, widespread pain and tenderness.",
+      "And rhabdomyolysis is severe muscle breakdown, which releases muscle contents into the blood and can damage the kidneys."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=13b50154480c4b50a492e95b21337253.mp3",
+    "duration_seconds": 29.125
+  },
+  {
+    "target_file": "narr_f/L3_34.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Here are common muscular disorders. A muscle strain is overstretching or tearing of muscle fibres. Tendinitis is inflammation of a tendon. Myositis is inflammation of muscle tissue. Muscular dystrophies are a group of genetic disorders characterized by progressive muscle degeneration and weakness. Fibromyalgia is chronic, widespread pain and tenderness. And rhabdomyolysis is severe muscle breakdown, which releases muscle contents into the blood and can damage the kidneys.",
+    "lecture": 3,
+    "slide": 34,
+    "narration_sentences": [
+      "Here are common muscular disorders.",
+      "A muscle strain is overstretching or tearing of muscle fibres.",
+      "Tendinitis is inflammation of a tendon.",
+      "Myositis is inflammation of muscle tissue.",
+      "Muscular dystrophies are a group of genetic disorders characterized by progressive muscle degeneration and weakness.",
+      "Fibromyalgia is chronic, widespread pain and tenderness.",
+      "And rhabdomyolysis is severe muscle breakdown, which releases muscle contents into the blood and can damage the kidneys."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d4e8dd6c2ba7475597b876817b0a7a39.mp3",
+    "duration_seconds": 28.208
+  },
+  {
+    "target_file": "narr/L3_36.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "How do we evaluate muscle injury and disease? We start with the physical examination: strength, tenderness and range of motion. Creatine kinase, or C K, is a common blood marker of skeletal muscle injury. Aldolase and myoglobin can be useful in selected cases, while C R P and E S R are nonspecific markers of inflammation, not direct markers of muscle injury. Electromyography, or E M G, records the electrical activity of muscles. A muscle biopsy takes a sample of tissue. Ultrasound gives a real-time view of muscles and tears, and MRI gives a detailed view of the muscle and its surroundings.",
+    "lecture": 3,
+    "slide": 36,
+    "narration_sentences": [
+      "How do we evaluate muscle injury and disease?",
+      "We start with the physical examination: strength, tenderness and range of motion.",
+      "Creatine kinase, or C K, is a common blood marker of skeletal muscle injury. Aldolase and myoglobin can be useful in selected cases, while C R P and E S R are nonspecific markers of inflammation, not direct markers of muscle injury.",
+      "Electromyography, or E M G, records the electrical activity of muscles.",
+      "A muscle biopsy takes a sample of tissue.",
+      "Ultrasound gives a real-time view of muscles and tears, and MRI gives a detailed view of the muscle and its surroundings."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b40425bed26b419ea4fc2fb96a77cc2f.mp3",
+    "duration_seconds": 39.551
+  },
+  {
+    "target_file": "narr_f/L3_36.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "How do we evaluate muscle injury and disease? We start with the physical examination: strength, tenderness and range of motion. Creatine kinase, or C K, is a common blood marker of skeletal muscle injury. Aldolase and myoglobin can be useful in selected cases, while C R P and E S R are nonspecific markers of inflammation, not direct markers of muscle injury. Electromyography, or E M G, records the electrical activity of muscles. A muscle biopsy takes a sample of tissue. Ultrasound gives a real-time view of muscles and tears, and MRI gives a detailed view of the muscle and its surroundings.",
+    "lecture": 3,
+    "slide": 36,
+    "narration_sentences": [
+      "How do we evaluate muscle injury and disease?",
+      "We start with the physical examination: strength, tenderness and range of motion.",
+      "Creatine kinase, or C K, is a common blood marker of skeletal muscle injury. Aldolase and myoglobin can be useful in selected cases, while C R P and E S R are nonspecific markers of inflammation, not direct markers of muscle injury.",
+      "Electromyography, or E M G, records the electrical activity of muscles.",
+      "A muscle biopsy takes a sample of tissue.",
+      "Ultrasound gives a real-time view of muscles and tears, and MRI gives a detailed view of the muscle and its surroundings."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=2fe0d3f85c584e97aa18c0035beaecee.mp3",
+    "duration_seconds": 38.506
+  },
+  {
+    "target_file": "narr/L3_38.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Finally, the drugs for the muscular system. Analgesics such as paracetamol relieve pain. NSAIDs such as ibuprofen and diclofenac reduce pain and inflammation. Some centrally acting muscle relaxants, such as cyclobenzaprine, may be used short term for selected painful muscle spasms. Antispasticity medicines such as baclofen and tizanidine target spasticity, which is different from ordinary acute muscle spasm. Corticosteroids such as prednisone suppress inflammation. Local anesthetics such as lidocaine block nerve conduction in one area. And botulinum toxin reduces spasticity.",
+    "lecture": 3,
+    "slide": 38,
+    "narration_sentences": [
+      "Finally, the drugs for the muscular system.",
+      "Analgesics such as paracetamol relieve pain.",
+      "NSAIDs such as ibuprofen and diclofenac reduce pain and inflammation.",
+      "Some centrally acting muscle relaxants, such as cyclobenzaprine, may be used short term for selected painful muscle spasms. Antispasticity medicines such as baclofen and tizanidine target spasticity, which is different from ordinary acute muscle spasm.",
+      "Corticosteroids such as prednisone suppress inflammation.",
+      "Local anesthetics such as lidocaine block nerve conduction in one area.",
+      "And botulinum toxin reduces spasticity."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=5ef561176e8c4ecfaf9ca7349077df47.mp3",
+    "duration_seconds": 38.189
+  },
+  {
+    "target_file": "narr_f/L3_38.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Finally, the drugs for the muscular system. Analgesics such as paracetamol relieve pain. NSAIDs such as ibuprofen and diclofenac reduce pain and inflammation. Some centrally acting muscle relaxants, such as cyclobenzaprine, may be used short term for selected painful muscle spasms. Antispasticity medicines such as baclofen and tizanidine target spasticity, which is different from ordinary acute muscle spasm. Corticosteroids such as prednisone suppress inflammation. Local anesthetics such as lidocaine block nerve conduction in one area. And botulinum toxin reduces spasticity.",
+    "lecture": 3,
+    "slide": 38,
+    "narration_sentences": [
+      "Finally, the drugs for the muscular system.",
+      "Analgesics such as paracetamol relieve pain.",
+      "NSAIDs such as ibuprofen and diclofenac reduce pain and inflammation.",
+      "Some centrally acting muscle relaxants, such as cyclobenzaprine, may be used short term for selected painful muscle spasms. Antispasticity medicines such as baclofen and tizanidine target spasticity, which is different from ordinary acute muscle spasm.",
+      "Corticosteroids such as prednisone suppress inflammation.",
+      "Local anesthetics such as lidocaine block nerve conduction in one area.",
+      "And botulinum toxin reduces spasticity."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d3533619a8a8432a8a153f78e896fb27.mp3",
+    "duration_seconds": 35.655
+  },
+  {
+    "target_file": "narr/L3_44.mp3",
+    "kind": "full_slide_narration",
+    "voice": "male",
+    "spoken_text": "Check yourself, questions 26 to 30. Question 26. Rhabdomyolysis literally means: A, Red cell breakdown. B, Muscle inflammation. C, Striated muscle breakdown. D, Muscle tumor. The answer is C, Striated muscle breakdown. Question 27. The suffix -algia means: A, Weakness. B, Pain. C, Inflammation. D, Surgical repair. The answer is B, Pain. Question 28. Myasthenia gravis means: A, Serious muscle weakness. B, Heavy muscle inflammation. C, Tumor causing weakness. D, Voluntary muscle spasm. The answer is A, Serious muscle weakness. Question 29. Poly- in polymyositis means: A, Single. B, Complete. C, Partial. D, Multiple. The answer is D, Multiple. Question 30. Fasciculations refer to: A, Inflammation of fascia. B, Twitching of fibers. C, Removal of fascia. D, Hardening of fascia. The answer is B, Twitching of fibers.",
+    "lecture": 3,
+    "slide": 44,
+    "narration_sentences": [
+      "Check yourself, questions 26 to 30.",
+      "Question 26. Rhabdomyolysis literally means: A, Red cell breakdown. B, Muscle inflammation. C, Striated muscle breakdown. D, Muscle tumor. The answer is C, Striated muscle breakdown.",
+      "Question 27. The suffix -algia means: A, Weakness. B, Pain. C, Inflammation. D, Surgical repair. The answer is B, Pain.",
+      "Question 28. Myasthenia gravis means: A, Serious muscle weakness. B, Heavy muscle inflammation. C, Tumor causing weakness. D, Voluntary muscle spasm. The answer is A, Serious muscle weakness.",
+      "Question 29. Poly- in polymyositis means: A, Single. B, Complete. C, Partial. D, Multiple. The answer is D, Multiple.",
+      "Question 30. Fasciculations refer to: A, Inflammation of fascia. B, Twitching of fibers. C, Removal of fascia. D, Hardening of fascia. The answer is B, Twitching of fibers."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=4cc80531da6043139019577ccf1c2341.mp3",
+    "duration_seconds": 71.438
+  },
+  {
+    "target_file": "narr_f/L3_44.mp3",
+    "kind": "full_slide_narration",
+    "voice": "female",
+    "spoken_text": "Check yourself, questions 26 to 30. Question 26. Rhabdomyolysis literally means: A, Red cell breakdown. B, Muscle inflammation. C, Striated muscle breakdown. D, Muscle tumor. The answer is C, Striated muscle breakdown. Question 27. The suffix -algia means: A, Weakness. B, Pain. C, Inflammation. D, Surgical repair. The answer is B, Pain. Question 28. Myasthenia gravis means: A, Serious muscle weakness. B, Heavy muscle inflammation. C, Tumor causing weakness. D, Voluntary muscle spasm. The answer is A, Serious muscle weakness. Question 29. Poly- in polymyositis means: A, Single. B, Complete. C, Partial. D, Multiple. The answer is D, Multiple. Question 30. Fasciculations refer to: A, Inflammation of fascia. B, Twitching of fibers. C, Removal of fascia. D, Hardening of fascia. The answer is B, Twitching of fibers.",
+    "lecture": 3,
+    "slide": 44,
+    "narration_sentences": [
+      "Check yourself, questions 26 to 30.",
+      "Question 26. Rhabdomyolysis literally means: A, Red cell breakdown. B, Muscle inflammation. C, Striated muscle breakdown. D, Muscle tumor. The answer is C, Striated muscle breakdown.",
+      "Question 27. The suffix -algia means: A, Weakness. B, Pain. C, Inflammation. D, Surgical repair. The answer is B, Pain.",
+      "Question 28. Myasthenia gravis means: A, Serious muscle weakness. B, Heavy muscle inflammation. C, Tumor causing weakness. D, Voluntary muscle spasm. The answer is A, Serious muscle weakness.",
+      "Question 29. Poly- in polymyositis means: A, Single. B, Complete. C, Partial. D, Multiple. The answer is D, Multiple.",
+      "Question 30. Fasciculations refer to: A, Inflammation of fascia. B, Twitching of fibers. C, Removal of fascia. D, Hardening of fascia. The answer is B, Twitching of fibers."
+    ],
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3636686e18a34d01901c1f9fe3add046.mp3",
+    "duration_seconds": 70.201
+  },
+  {
+    "target_file": "audio/t0397_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The levels of body organization are chemical, cellular, tissue, organ, organ system, and organism. A population is a higher ecological level.",
+    "lecture": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c4ef06af6eb8434a94b9227df793b0e4.mp3",
+    "duration_seconds": 10.225
+  },
+  {
+    "target_file": "audio/t0406_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The outer layer of an organ or cavity; in a plant cell, the rigid cell wall is outside the cell membrane.",
+    "lecture": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=cdbadc8e80a443258852c71751d5081d.mp3",
+    "duration_seconds": 6.65
+  },
+  {
+    "target_file": "audio/t0482_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The diaphragm is a dome-shaped muscle separating the thoracic and abdominal cavities. It is the main muscle of breathing.",
+    "lecture": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a22b1c7a421b479da6bfdb433495ef6d.mp3",
+    "duration_seconds": 7.079
+  },
+  {
+    "target_file": "audio/t0522_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Sublingual means under the tongue. Medication may be absorbed directly through the oral mucosa.",
+    "lecture": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=39383e2b859d4e14a5b199e39de804f7.mp3",
+    "duration_seconds": 5.465
+  },
+  {
+    "target_file": "audio/t1980_em.mp3",
+    "kind": "term_pronunciation",
+    "voice": "male",
+    "spoken_text": "subarachnoid",
+    "lecture": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=18bd615c79564b39973ff296cd55c626.mp3",
+    "duration_seconds": 1.075
+  },
+  {
+    "target_file": "audio/t1980_ef.mp3",
+    "kind": "term_pronunciation",
+    "voice": "female",
+    "spoken_text": "subarachnoid",
+    "lecture": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=166e0922305748149e6d1455f11e5302.mp3",
+    "duration_seconds": 1.22
+  },
+  {
+    "target_file": "audio/t1980_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Subarachnoid means below the arachnoid membrane. The subarachnoid space contains cerebrospinal fluid.",
+    "lecture": "2",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=801e47fa8a36467a8fd78b28df48356d.mp3",
+    "duration_seconds": 6.522
+  },
+  {
+    "target_file": "audio/t0586_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "A shaft is the long central part of a bone, or the portion of a hair that extends above the skin.",
+    "lecture": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f69017ee405f4c43be90f08d6f5803e3.mp3",
+    "duration_seconds": 5.802
+  },
+  {
+    "target_file": "audio/t0631_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "False ribs, typically ribs eight to twelve, lack a direct sternal attachment. Ribs eight to ten attach indirectly, while eleven and twelve are floating ribs.",
+    "lecture": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=54399c7efda4495b985248017d2f1264.mp3",
+    "duration_seconds": 9.424
+  },
+  {
+    "target_file": "audio/t0719_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Reduction is the realignment of a fractured bone or dislocated joint. The word may also mean a decrease in amount or number.",
+    "lecture": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8b3195eb20e7456ca263029709b24add.mp3",
+    "duration_seconds": 8.101
+  },
+  {
+    "target_file": "audio/t0738_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Bisphosphonates are antiresorptive medicines used for selected metabolic bone diseases, including osteoporosis.",
+    "lecture": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d021877f36254063811e995b29d77cb9.mp3",
+    "duration_seconds": 6.731
+  },
+  {
+    "target_file": "audio/t0834_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Myasthenia means muscle weakness. It combines the word root for muscle with the suffix meaning weakness.",
+    "lecture": "3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=900332213b08474c8e6d3d93fa1b4771.mp3",
+    "duration_seconds": 6.568
+  },
+  {
+    "target_file": "audio/t0752_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The combining form sarc-o means flesh or fleshy tissue. It does not specifically mean connective tissue.",
+    "lecture": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ba704f16e8234fab980faf15da15ac0d.mp3",
+    "duration_seconds": 6.475
+  },
+  {
+    "target_file": "audio/t0529_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Intrathecal administration delivers medication into cerebrospinal fluid, usually the spinal subarachnoid space.",
+    "lecture": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9498ad467bb1404a801944035c4bfbdf.mp3",
+    "duration_seconds": 7.033
+  },
+  {
+    "target_file": "audio/t0530_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Epidural administration delivers medication into the epidural space, outside the dura mater.",
+    "lecture": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=20218d941b8a401fb390508c35bdc0c9.mp3",
+    "duration_seconds": 5.547
+  },
+  {
+    "target_file": "audio/t0270_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Osteomalacia is defective mineralization of existing bone, typically in adults. It differs from childhood rickets.",
+    "lecture": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c2d1f07d90f84692a122c04268184b3c.mp3",
+    "duration_seconds": 7.509
+  },
+  {
+    "target_file": "audio/t0667_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Rickets is defective mineralization of growing bone and growth plates in children.",
+    "lecture": "2,3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e34e349ef1c246bbbbfe0ef439e60431.mp3",
+    "duration_seconds": 4.653
+  },
+  {
+    "target_file": "narr/L4_05.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=5e25e5c3fd9344a2a683785a6fed79bb.mp3",
+    "duration_seconds": 38.204
+  },
+  {
+    "target_file": "narr_f/L4_05.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4b3f1c55c1b548a18e78c7ac2e3071e2.mp3",
+    "duration_seconds": 35.824
+  },
+  {
+    "target_file": "narr/L4_07.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ef2726d75cf441cdbce39a3760ea6905.mp3",
+    "duration_seconds": 35.174
+  },
+  {
+    "target_file": "narr_f/L4_07.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0ac868b9dd23484891cbaa2e2d88f474.mp3",
+    "duration_seconds": 34.174
+  },
+  {
+    "target_file": "narr/L4_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=6ff23f44434c45e890af2339ea418c36.mp3",
+    "duration_seconds": 34.036
+  },
+  {
+    "target_file": "narr_f/L4_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8b81ba4edce54a7e980e4e77ba9a96f5.mp3",
+    "duration_seconds": 32.887
+  },
+  {
+    "target_file": "narr/L4_12.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=2d6db998fa4f4ce5aefbc2919e00895f.mp3",
+    "duration_seconds": 58.862
+  },
+  {
+    "target_file": "narr_f/L4_12.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=5b382a8cb93d469e95db16f8bd65e360.mp3",
+    "duration_seconds": 56.122
+  },
+  {
+    "target_file": "narr/L4_13.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=247e613ff83c4c4cba44dd095077cceb.mp3",
+    "duration_seconds": 51.204
+  },
+  {
+    "target_file": "narr_f/L4_13.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c9fe2037941c41ceac161077c4f4b988.mp3",
+    "duration_seconds": 49.325
+  },
+  {
+    "target_file": "narr/L4_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=6034940ab32248cdbcdd0bbb83db247c.mp3",
+    "duration_seconds": 27.773
+  },
+  {
+    "target_file": "narr_f/L4_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1c5a292aad2c4689b1802b0bcafa2f7d.mp3",
+    "duration_seconds": 27.471
+  },
+  {
+    "target_file": "narr/L4_18.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=cc88e769a4f84f7abf0766c4af0d1764.mp3",
+    "duration_seconds": 41.059
+  },
+  {
+    "target_file": "narr_f/L4_18.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e3f2f2a5126b4d67b52adc041748e3b6.mp3",
+    "duration_seconds": 38.267
+  },
+  {
+    "target_file": "narr/L4_19.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a7e01206b79c42c19476069232e2c00f.mp3",
+    "duration_seconds": 38.378
+  },
+  {
+    "target_file": "narr_f/L4_19.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=742da1e90c35453ebbdcae1415c28662.mp3",
+    "duration_seconds": 36.59
+  },
+  {
+    "target_file": "narr/L4_21.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=bc9eacfe9c9940a28c06d8e68e1af086.mp3",
+    "duration_seconds": 42.516
+  },
+  {
+    "target_file": "narr_f/L4_21.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=55a4067c722f4beead990762e958536a.mp3",
+    "duration_seconds": 40.798
+  },
+  {
+    "target_file": "narr/L4_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=99fda36c3f6548cc99016fe32383a37f.mp3",
+    "duration_seconds": 44.419
+  },
+  {
+    "target_file": "narr_f/L4_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=2ef5e66987b542c3a382ad6e7f4d6604.mp3",
+    "duration_seconds": 40.763
+  },
+  {
+    "target_file": "narr/L4_25.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=c5275d69833143d59294ea750cf6dd25.mp3",
+    "duration_seconds": 35.441
+  },
+  {
+    "target_file": "narr_f/L4_25.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=18fbf073185d459abd1fbed3474d2c9e.mp3",
+    "duration_seconds": 33.351
+  },
+  {
+    "target_file": "narr/L4_26.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=486bf0a5dc9a425c8ac11e64fc2c758b.mp3",
+    "duration_seconds": 38.75
+  },
+  {
+    "target_file": "narr_f/L4_26.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c7d650b303a4452d80edd1ffdfbbe9b5.mp3",
+    "duration_seconds": 36.939
+  },
+  {
+    "target_file": "narr/L4_29.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e00e6ef0bb4a4603aa2908334b645b17.mp3",
+    "duration_seconds": 49.546
+  },
+  {
+    "target_file": "narr_f/L4_29.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=804c6472c6fb4435876f1fa3834449c2.mp3",
+    "duration_seconds": 49.104
+  },
+  {
+    "target_file": "narr/L4_30.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=492d0e95b2084e21b55c6fb41ba3af70.mp3",
+    "duration_seconds": 51.828
+  },
+  {
+    "target_file": "narr_f/L4_30.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=219657e559384f96bc046d52d3f940d1.mp3",
+    "duration_seconds": 49.146
+  },
+  {
+    "target_file": "narr/L4_31.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ebf63b66acf243548e643bdca84329d4.mp3",
+    "duration_seconds": 41.448
+  },
+  {
+    "target_file": "narr_f/L4_31.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1b691aa5d1af42b69a92aee9143234a6.mp3",
+    "duration_seconds": 40.38
+  },
+  {
+    "target_file": "narr/L4_34.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=8279cefd45ef47c3843ae0c299daff37.mp3",
+    "duration_seconds": 39.098
+  },
+  {
+    "target_file": "narr_f/L4_34.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e01d279063c34e0dabc8c9f9b1fe95d6.mp3",
+    "duration_seconds": 35.998
+  },
+  {
+    "target_file": "narr/L4_36.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1c92f13bc7b141038ec34ec9137847ed.mp3",
+    "duration_seconds": 40.508
+  },
+  {
+    "target_file": "narr_f/L4_36.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a87cbea379914418a6a006c190dec889.mp3",
+    "duration_seconds": 38.975
+  },
+  {
+    "target_file": "narr/L5_05.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1274656394ff4e3182601e3ffec77a2b.mp3",
+    "duration_seconds": 60.242
+  },
+  {
+    "target_file": "narr_f/L5_05.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a47f7ae2fa184fa48245dbfb7dee087e.mp3",
+    "duration_seconds": 57.865
+  },
+  {
+    "target_file": "narr/L5_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a23be019580e4153a3e27b3a97ec3db4.mp3",
+    "duration_seconds": 40.508
+  },
+  {
+    "target_file": "narr_f/L5_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=5465060036ee48829ac3b90aec02161d.mp3",
+    "duration_seconds": 37.954
+  },
+  {
+    "target_file": "narr/L5_09.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a948ffa336e841d38fa07147d189c7a9.mp3",
+    "duration_seconds": 29.306
+  },
+  {
+    "target_file": "narr_f/L5_09.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=448bf9a6ce73472eb7391686a7bec2c8.mp3",
+    "duration_seconds": 27.767
+  },
+  {
+    "target_file": "narr/L5_11.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=494b019143a2475d8e9a674aa056dd16.mp3",
+    "duration_seconds": 41.959
+  },
+  {
+    "target_file": "narr_f/L5_11.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9f70478107e64f4b8e76136f2e312dcf.mp3",
+    "duration_seconds": 40.38
+  },
+  {
+    "target_file": "narr/L5_12.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=fad9220848044e36b951c545b527eba9.mp3",
+    "duration_seconds": 36.677
+  },
+  {
+    "target_file": "narr_f/L5_12.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8b230e1792114c2ca30e8784a5acc855.mp3",
+    "duration_seconds": 34.587
+  },
+  {
+    "target_file": "narr/L5_15.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1449d09214194a48891e74326abe6bb3.mp3",
+    "duration_seconds": 45.744
+  },
+  {
+    "target_file": "narr_f/L5_15.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f3e11de6c1b3446880ef20f643523c37.mp3",
+    "duration_seconds": 44.026
+  },
+  {
+    "target_file": "narr/L5_16.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=48adfd8861f444ab807beab544bfab01.mp3",
+    "duration_seconds": 50.207
+  },
+  {
+    "target_file": "narr_f/L5_16.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fff2a7828f5f4f8583dd5d8bc71ee80c.mp3",
+    "duration_seconds": 48.257
+  },
+  {
+    "target_file": "narr/L5_17.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=7ce15fecc01043299f188fd28e654827.mp3",
+    "duration_seconds": 44.897
+  },
+  {
+    "target_file": "narr_f/L5_17.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f02c29888a844275ae42384b9471d577.mp3",
+    "duration_seconds": 43.41
+  },
+  {
+    "target_file": "narr/L5_18.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ff8e95f01955485480e0436ccec64d02.mp3",
+    "duration_seconds": 32.585
+  },
+  {
+    "target_file": "narr_f/L5_18.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fbfe25ba978a42058b6e723f42392364.mp3",
+    "duration_seconds": 31.273
+  },
+  {
+    "target_file": "narr/L5_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a065ff865d4045dc94f6ecaf10448146.mp3",
+    "duration_seconds": 36.849
+  },
+  {
+    "target_file": "narr_f/L5_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=bbb3d26fccc14dca823ebe45faae0653.mp3",
+    "duration_seconds": 34.94
+  },
+  {
+    "target_file": "narr/L5_24.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e3adbccaa9004117b49577ce3cef182a.mp3",
+    "duration_seconds": 39.341
+  },
+  {
+    "target_file": "narr_f/L5_24.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c9eb513103b54981984976959657db32.mp3",
+    "duration_seconds": 37.176
+  },
+  {
+    "target_file": "narr/L5_25.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=3755fd53606c47adbd4888e4ef4e40dd.mp3",
+    "duration_seconds": 40.054
+  },
+  {
+    "target_file": "narr_f/L5_25.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c6bb5bf0203b449d983b50a369368f4e.mp3",
+    "duration_seconds": 38.29
+  },
+  {
+    "target_file": "narr/L6_04.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=8e254e76f76d47ceb6dabdfa4e0bed60.mp3",
+    "duration_seconds": 38.634
+  },
+  {
+    "target_file": "narr_f/L6_04.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=6a2616b182124fc9bda58e3c6f64fea6.mp3",
+    "duration_seconds": 37.101
+  },
+  {
+    "target_file": "narr/L6_10.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=41cdaabd30f044bdb52ed4a453d6242f.mp3",
+    "duration_seconds": 56.663
+  },
+  {
+    "target_file": "narr_f/L6_10.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=88c00214712f4820a94c799cc9787aa3.mp3",
+    "duration_seconds": 54.515
+  },
+  {
+    "target_file": "narr/L6_11.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=c850105a7d2c4d5baf055f8d19fa6f58.mp3",
+    "duration_seconds": 54.555
+  },
+  {
+    "target_file": "narr_f/L6_11.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0618fa99dad144b2a2751dd60de0069a.mp3",
+    "duration_seconds": 52.86
+  },
+  {
+    "target_file": "narr/L6_13.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b6ed4565858241f7932b415735768c36.mp3",
+    "duration_seconds": 49.713
+  },
+  {
+    "target_file": "narr_f/L6_13.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0766135d7af84f2cb8c248ff7d90e37f.mp3",
+    "duration_seconds": 48.547
+  },
+  {
+    "target_file": "narr/L6_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=fe354873a33c48d79cc3601f2e8a096f.mp3",
+    "duration_seconds": 36.811
+  },
+  {
+    "target_file": "narr_f/L6_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a5fd329f838c410d9e2dd990166926b0.mp3",
+    "duration_seconds": 34.849
+  },
+  {
+    "target_file": "narr/L6_15.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1a93205a97744aa3a8fb284e47d55911.mp3",
+    "duration_seconds": 40.982
+  },
+  {
+    "target_file": "narr_f/L6_15.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=870fea725f714bb5999d168b7f1e1f98.mp3",
+    "duration_seconds": 37.838
+  },
+  {
+    "target_file": "narr/L6_16.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=be2534afa3ca43c19b940de2bce6cdd0.mp3",
+    "duration_seconds": 43.112
+  },
+  {
+    "target_file": "narr_f/L6_16.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9d30cdc1d4da40119940c4f5b74541d3.mp3",
+    "duration_seconds": 41.395
+  },
+  {
+    "target_file": "narr/L6_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=9822fbf399fb4359903fc8093de68271.mp3",
+    "duration_seconds": 45.349
+  },
+  {
+    "target_file": "narr_f/L6_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e774fe05179f48eba6ba1f1095fbf5e7.mp3",
+    "duration_seconds": 42.867
+  },
+  {
+    "target_file": "narr/L6_24.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=11c078a4bbc145079550ef051c03726e.mp3",
+    "duration_seconds": 35.476
+  },
+  {
+    "target_file": "narr_f/L6_24.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d031c4dba3724b6ab4dea3b9014739bf.mp3",
+    "duration_seconds": 34.338
+  },
+  {
+    "target_file": "narr/L6_25.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e57030b52dea4dcfb091f7d51e23d0b7.mp3",
+    "duration_seconds": 41.785
+  },
+  {
+    "target_file": "narr_f/L6_25.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a3972be2c53c4b669d01e2f063d1cddc.mp3",
+    "duration_seconds": 40.032
+  },
+  {
+    "target_file": "narr/L7_04.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=af9e81e0cf844ee79df123f66f75713d.mp3",
+    "duration_seconds": 46.169
+  },
+  {
+    "target_file": "narr_f/L7_04.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e1c7954d22ac4b28bf8428414887db86.mp3",
+    "duration_seconds": 43.317
+  },
+  {
+    "target_file": "narr/L7_05.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=f4b23f9c81cd4f6f94f6c0a2d480c34d.mp3",
+    "duration_seconds": 42.848
+  },
+  {
+    "target_file": "narr_f/L7_05.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=09cad2f131f74a25bbe407474c5471ff.mp3",
+    "duration_seconds": 40.549
+  },
+  {
+    "target_file": "narr/L7_07.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=013db1ea9b1144bfbae24185bd374ad0.mp3",
+    "duration_seconds": 42.725
+  },
+  {
+    "target_file": "narr_f/L7_07.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9c0328c618d847d59b1d3682e57af6b8.mp3",
+    "duration_seconds": 39.916
+  },
+  {
+    "target_file": "narr/L7_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=eb00d4414ee04fd9b88579c8979a59dd.mp3",
+    "duration_seconds": 53.649
+  },
+  {
+    "target_file": "narr_f/L7_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=327c2e2590ed45da9f6eae1edfbdc2dd.mp3",
+    "duration_seconds": 51.682
+  },
+  {
+    "target_file": "narr/L7_11.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1e02925a42574faea73607417470d874.mp3",
+    "duration_seconds": 60.297
+  },
+  {
+    "target_file": "narr_f/L7_11.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=69b1193ba6794abcb5441d2a11c9b646.mp3",
+    "duration_seconds": 58.583
+  },
+  {
+    "target_file": "narr/L7_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=498a5b9eb9cb4b2d8ad753602e8e600c.mp3",
+    "duration_seconds": 55.082
+  },
+  {
+    "target_file": "narr_f/L7_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4eb28aa95e544a819da2df27b1ca71b1.mp3",
+    "duration_seconds": 51.63
+  },
+  {
+    "target_file": "narr/L7_16.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=73225d27d0a6437b98a694bf1af65dda.mp3",
+    "duration_seconds": 49.526
+  },
+  {
+    "target_file": "narr_f/L7_16.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=393641aed82a4f5dafb09d4c611ccadc.mp3",
+    "duration_seconds": 47.404
+  },
+  {
+    "target_file": "narr/L7_17.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=6eecd00a1e8f404b8bb91569fc11a374.mp3",
+    "duration_seconds": 40.032
+  },
+  {
+    "target_file": "narr_f/L7_17.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3ca962e09eeb4d9cb5e00d26183d40ed.mp3",
+    "duration_seconds": 37.826
+  },
+  {
+    "target_file": "narr/L7_19.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=dc3b55d0acda4649ab1f427a31d10bcf.mp3",
+    "duration_seconds": 26.159
+  },
+  {
+    "target_file": "narr_f/L7_19.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=922df53f25d14161a01d94c8a4775bfc.mp3",
+    "duration_seconds": 25.347
+  },
+  {
+    "target_file": "narr/L7_20.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=71901e37929f4bd382f14c14f412df8e.mp3",
+    "duration_seconds": 35.557
+  },
+  {
+    "target_file": "narr_f/L7_20.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9448b2089f7b4fffb76aa6ebe3c84e82.mp3",
+    "duration_seconds": 34.849
+  },
+  {
+    "target_file": "narr/L7_22.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=38e362c776f5457fa60b14bc87193023.mp3",
+    "duration_seconds": 41.75
+  },
+  {
+    "target_file": "narr_f/L7_22.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4d346ddcc8ef41dc9f1e1081ec631c1e.mp3",
+    "duration_seconds": 40.218
+  },
+  {
+    "target_file": "narr/L8_02.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=fe03ccb26df347d49c7fabed089ede44.mp3",
+    "duration_seconds": 30.432
+  },
+  {
+    "target_file": "narr_f/L8_02.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f08631dfb278426bb9723ba5d514e897.mp3",
+    "duration_seconds": 30.124
+  },
+  {
+    "target_file": "narr/L8_03.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=93d23802180846adade0ff5ae0a4821e.mp3",
+    "duration_seconds": 36.937
+  },
+  {
+    "target_file": "narr_f/L8_03.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=588ff2f46cb444c791ee0ca93eb13e46.mp3",
+    "duration_seconds": 35.771
+  },
+  {
+    "target_file": "narr/L8_04.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=45e7c49c1c92417da15a2e1e4e888c2a.mp3",
+    "duration_seconds": 48.514
+  },
+  {
+    "target_file": "narr_f/L8_04.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fd309fa8e9124b5081cfd14f1af64f71.mp3",
+    "duration_seconds": 44.682
+  },
+  {
+    "target_file": "narr/L8_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=14ff1ac9590d47939ad2bdb4a5233570.mp3",
+    "duration_seconds": 56.767
+  },
+  {
+    "target_file": "narr_f/L8_08.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=5200ae90becf413abbf88c166f8e9105.mp3",
+    "duration_seconds": 54.004
+  },
+  {
+    "target_file": "narr/L8_10.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=bdb4becc7c6b48058c86af9623b5d09c.mp3",
+    "duration_seconds": 43.553
+  },
+  {
+    "target_file": "narr_f/L8_10.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9d1d7d16527644aa97d0ed7e289fd8c4.mp3",
+    "duration_seconds": 41.535
+  },
+  {
+    "target_file": "narr/L8_13.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=2fb32e42e7e8483ca261053daaea34da.mp3",
+    "duration_seconds": 34.965
+  },
+  {
+    "target_file": "narr_f/L8_13.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=44743eb3f4e343bebb034a7c6af56b8d.mp3",
+    "duration_seconds": 33.351
+  },
+  {
+    "target_file": "narr/L8_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=12a27983b75b47b2aa25350ef8d3bd03.mp3",
+    "duration_seconds": 39.655
+  },
+  {
+    "target_file": "narr_f/L8_14.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1d679db9ca9c42cf9c321119b33a6d2e.mp3",
+    "duration_seconds": 36.59
+  },
+  {
+    "target_file": "narr/L8_15.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=24a975882a604050ac2abde6019f2ac2.mp3",
+    "duration_seconds": 34.454
+  },
+  {
+    "target_file": "narr_f/L8_15.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1fab40182f574abab0c3614eab79a663.mp3",
+    "duration_seconds": 32.538
+  },
+  {
+    "target_file": "narr/L8_19.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=62fb1e70f7d84c04a06e20e4ac27aeeb.mp3",
+    "duration_seconds": 34.184
+  },
+  {
+    "target_file": "narr_f/L8_19.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=15b8dfb7e47a4e4f824082aed3a54f85.mp3",
+    "duration_seconds": 33.356
+  },
+  {
+    "target_file": "narr/L8_21.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=73b3760516da4d0a92539a04a918727e.mp3",
+    "duration_seconds": 33.351
+  },
+  {
+    "target_file": "narr_f/L8_21.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ba7d2d74ae734f21a75bea66081464c6.mp3",
+    "duration_seconds": 31.737
+  },
+  {
+    "target_file": "narr/L8_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=8231309c4d034dfdbc0efc27012846a5.mp3",
+    "duration_seconds": 35.127
+  },
+  {
+    "target_file": "narr_f/L8_23.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7a9afb11a7624ec08c336452a8451ee3.mp3",
+    "duration_seconds": 34.791
+  },
+  {
+    "target_file": "narr/L8_24.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=712edf4ea4a6487f839439b8e8284307.mp3",
+    "duration_seconds": 40.38
+  },
+  {
+    "target_file": "narr_f/L8_24.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=80a2f6629e9441e2b0c5e2f31e22f3f4.mp3",
+    "duration_seconds": 38.987
+  },
+  {
+    "target_file": "audio/t0908_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=2caf049d9d0041f6a811581919ad27db.mp3",
+    "duration_seconds": 7.671
+  },
+  {
+    "target_file": "audio/t0921_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1d92d997b3754c42981a5f2f91d767e0.mp3",
+    "duration_seconds": 5.5
+  },
+  {
+    "target_file": "audio/t0928_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e25b96c3e8044f73bf0583f30d5927c1.mp3",
+    "duration_seconds": 8.774
+  },
+  {
+    "target_file": "audio/t1019_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=02425d22317747c2afc181e9f82027c7.mp3",
+    "duration_seconds": 6.266
+  },
+  {
+    "target_file": "audio/t1122_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=59cca83cc0c64996a2eacd7a4112f845.mp3",
+    "duration_seconds": 7.799
+  },
+  {
+    "target_file": "audio/t1973_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=25e1eccb127b4bd2abdf0984a6950307.mp3",
+    "duration_seconds": 1.087
+  },
+  {
+    "target_file": "audio/t1973_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b6a16ce342114d4495d611ec07a80a75.mp3",
+    "duration_seconds": 0.99
+  },
+  {
+    "target_file": "audio/t1973_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=53933fdae2674286af1c6d32769c8b29.mp3",
+    "duration_seconds": 3.759
+  },
+  {
+    "target_file": "audio/t1974_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=7584682ec4f6478189b2d6e9b0f68469.mp3",
+    "duration_seconds": 1.102
+  },
+  {
+    "target_file": "audio/t1974_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=db6c3fac932d44e6bd20cb49e54e244f.mp3",
+    "duration_seconds": 1.073
+  },
+  {
+    "target_file": "audio/t1974_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=618c76ae3d804a859b7d6e0cc17bafea.mp3",
+    "duration_seconds": 3.294
+  },
+  {
+    "target_file": "audio/t1975_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b16a8c59bba14a5b8aa2cc1f40cf9113.mp3",
+    "duration_seconds": 1.212
+  },
+  {
+    "target_file": "audio/t1975_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b4e37b3ae0d44b33a45375500660e1f1.mp3",
+    "duration_seconds": 1.101
+  },
+  {
+    "target_file": "audio/t1975_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=eaf2c776d10f4c48ac25e9e3f09a645a.mp3",
+    "duration_seconds": 1.288
+  },
+  {
+    "target_file": "audio/t1976_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=1366899117ed453f9c2b480ddefd3e20.mp3",
+    "duration_seconds": 1.079
+  },
+  {
+    "target_file": "audio/t1976_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e6e73091db47437f822de2a79b307a7a.mp3",
+    "duration_seconds": 0.924
+  },
+  {
+    "target_file": "audio/t1976_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=6a1b658da82f4f339c4291b3ba0ec18c.mp3",
+    "duration_seconds": 5.338
+  },
+  {
+    "target_file": "audio/t1977_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=13f83f2e9b5744888beb863678b2b3d8.mp3",
+    "duration_seconds": 1.697
+  },
+  {
+    "target_file": "audio/t1977_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=53788f1e245b42da92036c9ead706e14.mp3",
+    "duration_seconds": 1.752
+  },
+  {
+    "target_file": "audio/t1977_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=345bf5ebb1da4dd390167f24d3f86920.mp3",
+    "duration_seconds": 5.802
+  },
+  {
+    "target_file": "audio/t1978_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=00e02b2c924041f795dd1fe1620ff0de.mp3",
+    "duration_seconds": 2.06
+  },
+  {
+    "target_file": "audio/t1978_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=61f0445c774a458ab9cb5afb751dd7f2.mp3",
+    "duration_seconds": 1.707
+  },
+  {
+    "target_file": "audio/t1978_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c9880cb9c97a46d892f8a089ccd6ad4e.mp3",
+    "duration_seconds": 4.397
+  },
+  {
+    "target_file": "audio/t1979_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=4aee45fe074d4f8b8dc031e7e077ffbe.mp3",
+    "duration_seconds": 1.077
+  },
+  {
+    "target_file": "audio/t1979_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3e0ba2a30d544fd9a97f12c7136c85c2.mp3",
+    "duration_seconds": 0.946
+  },
+  {
+    "target_file": "audio/t1979_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=6bbb077b1e5a4c31bdad915b7e4f030e.mp3",
+    "duration_seconds": 2.389
+  },
+  {
+    "target_file": "audio/t1222_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0d32c2c947154c5f83da0c036fad1803.mp3",
+    "duration_seconds": 5.883
+  },
+  {
+    "target_file": "audio/t1223_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=615cbaed53d648678b3dd500cd43c37d.mp3",
+    "duration_seconds": 6.475
+  },
+  {
+    "target_file": "audio/t1224_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a8f7638bff334e9b946ae52e29d40051.mp3",
+    "duration_seconds": 3.805
+  },
+  {
+    "target_file": "audio/t1246_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9da308b2a162449086e629a6339bfba2.mp3",
+    "duration_seconds": 4.223
+  },
+  {
+    "target_file": "audio/t1981_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=3af5d6a19aae444db718792eeed378d3.mp3",
+    "duration_seconds": 1.174
+  },
+  {
+    "target_file": "audio/t1981_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fdd24fb4437049bb9c1f98a964761ebf.mp3",
+    "duration_seconds": 0.908
+  },
+  {
+    "target_file": "audio/t1981_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c326d14ec9ef4e0dad677519dc20bb20.mp3",
+    "duration_seconds": 4.095
+  },
+  {
+    "target_file": "audio/t1982_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=c2706fa7563a4de19666a59713d77da6.mp3",
+    "duration_seconds": 0.787
+  },
+  {
+    "target_file": "audio/t1982_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=24023b24ccc64ab58316b240972bf43d.mp3",
+    "duration_seconds": 0.887
+  },
+  {
+    "target_file": "audio/t1982_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=2dd0c35d7a3849b29db2d26370173bb2.mp3",
+    "duration_seconds": 6.266
+  },
+  {
+    "target_file": "audio/t1983_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=cfb4ee92564f4dd485cb7e27430813ea.mp3",
+    "duration_seconds": 1.87
+  },
+  {
+    "target_file": "audio/t1983_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=70daab72d6d14280b1de1fe34acb0d8d.mp3",
+    "duration_seconds": 1.34
+  },
+  {
+    "target_file": "audio/t1983_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9e14f46921714477b24bed1360b48683.mp3",
+    "duration_seconds": 4.734
+  },
+  {
+    "target_file": "audio/t2000_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=20a17ce09ab34799b3f4b61841304521.mp3",
+    "duration_seconds": 1.437
+  },
+  {
+    "target_file": "audio/t2000_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=f4cfd605435e460d9394622704894d08.mp3",
+    "duration_seconds": 1.35
+  },
+  {
+    "target_file": "audio/t2000_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7ea02168802e42749a5e239c66d8020c.mp3",
+    "duration_seconds": 5.117
+  },
+  {
+    "target_file": "audio/t2001_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=04398957d3eb42f6986ce7c1013ccb8e.mp3",
+    "duration_seconds": 0.981
+  },
+  {
+    "target_file": "audio/t2001_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4f986fa034fc4b97ad92148d527b39b9.mp3",
+    "duration_seconds": 0.893
+  },
+  {
+    "target_file": "audio/t2001_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=166cb43b4bfe4198af0f63f18bcee95f.mp3",
+    "duration_seconds": 1.456
+  },
+  {
+    "target_file": "audio/t2002_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=cad46fa1db9e458896005304479c3273.mp3",
+    "duration_seconds": 0.703
+  },
+  {
+    "target_file": "audio/t2002_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0dccaf3e448445928fa56f520ac969c6.mp3",
+    "duration_seconds": 0.706
+  },
+  {
+    "target_file": "audio/t2002_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=fd261dce44ff4690bdd75fd73dcfbeaf.mp3",
+    "duration_seconds": 4.78
+  },
+  {
+    "target_file": "audio/t2003_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=cd0e1ca4571f49b991abaf2be50a4209.mp3",
+    "duration_seconds": 0.951
+  },
+  {
+    "target_file": "audio/t2003_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7160e1f42e7745058b92ccc2b2e4c564.mp3",
+    "duration_seconds": 0.745
+  },
+  {
+    "target_file": "audio/t2003_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=62822c89e432489caeaae8b467f2892e.mp3",
+    "duration_seconds": 3.329
+  },
+  {
+    "target_file": "audio/t1337_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=bfd5626f0f7042d286d48371870316ea.mp3",
+    "duration_seconds": 5.163
+  },
+  {
+    "target_file": "audio/t1372_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7dea03c0001a4dcea45df3a7b034ba8a.mp3",
+    "duration_seconds": 3.585
+  },
+  {
+    "target_file": "audio/t1387_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4b42656711fd492fa45ede2dcbc93474.mp3",
+    "duration_seconds": 5.674
+  },
+  {
+    "target_file": "audio/t1388_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a7d7294f013a41b3befdc3e62692ea15.mp3",
+    "duration_seconds": 3.201
+  },
+  {
+    "target_file": "audio/t1411_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e6887dae9d0740e8ade93fd3855dcffb.mp3",
+    "duration_seconds": 7.799
+  },
+  {
+    "target_file": "audio/t1433_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1ef5f28c90824b5e8f802286e393d2a8.mp3",
+    "duration_seconds": 8.147
+  },
+  {
+    "target_file": "audio/t1459_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=209f77f4ba0b442a9c97beba49b3f907.mp3",
+    "duration_seconds": 5.674
+  },
+  {
+    "target_file": "audio/t1463_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=15d6d6c95920499bb78570a14de12e39.mp3",
+    "duration_seconds": 7.544
+  },
+  {
+    "target_file": "audio/t1474_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=c402d35f546449b6abf41424a2ea2a65.mp3",
+    "duration_seconds": 3.329
+  },
+  {
+    "target_file": "audio/t1485_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7f7847dd28814a039a17d9f50ce76068.mp3",
+    "duration_seconds": 10.609
+  },
+  {
+    "target_file": "audio/t1984_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=77b131bfb3ce447b9625ada3fdb743a0.mp3",
+    "duration_seconds": 1.366
+  },
+  {
+    "target_file": "audio/t1984_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=dd4725e015bb47d8bb6ed25a38a15c02.mp3",
+    "duration_seconds": 1.105
+  },
+  {
+    "target_file": "audio/t1984_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4d433243e51b4a40b8b3584d57ee43b0.mp3",
+    "duration_seconds": 5.372
+  },
+  {
+    "target_file": "audio/t1985_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b318ca5ac2dd4c21ae09bf872e9b6c50.mp3",
+    "duration_seconds": 1.012
+  },
+  {
+    "target_file": "audio/t1985_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=183393ee72fc48819ef2b023f105e6a5.mp3",
+    "duration_seconds": 1.229
+  },
+  {
+    "target_file": "audio/t1985_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=023d2c41118f4f5292ea3191578b4ea8.mp3",
+    "duration_seconds": 1.472
+  },
+  {
+    "target_file": "audio/t1986_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=a0f9189aaad345d59fbe02dbdef547b4.mp3",
+    "duration_seconds": 0.918
+  },
+  {
+    "target_file": "audio/t1986_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8b3a97fe9d1244478eb2bd245b55f0a1.mp3",
+    "duration_seconds": 0.999
+  },
+  {
+    "target_file": "audio/t1986_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=06a0156e004b4879a22da802cfc1bb14.mp3",
+    "duration_seconds": 3.968
+  },
+  {
+    "target_file": "audio/t1987_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=66ca04cc5c214b10966c837e081d4e5d.mp3",
+    "duration_seconds": 1.039
+  },
+  {
+    "target_file": "audio/t1987_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3d556c177fd549e7b605558dc563d518.mp3",
+    "duration_seconds": 0.953
+  },
+  {
+    "target_file": "audio/t1987_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=79f5012fceed42689d3297ccaceb9d9e.mp3",
+    "duration_seconds": 6.951
+  },
+  {
+    "target_file": "audio/t1990_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=9d8a20c207234f8b86c9d2a59b87367a.mp3",
+    "duration_seconds": 1.51
+  },
+  {
+    "target_file": "audio/t1990_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3b556b9c3f3e49ee9b30142759a5f9d5.mp3",
+    "duration_seconds": 1.719
+  },
+  {
+    "target_file": "audio/t1990_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=0b2b26a79fd44e518a6678459c8c7d6f.mp3",
+    "duration_seconds": 6.905
+  },
+  {
+    "target_file": "audio/t1992_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=48c60a80d20140c193f942d947f1b25b.mp3",
+    "duration_seconds": 1.17
+  },
+  {
+    "target_file": "audio/t1992_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=bf64040ded7646b1ad5467472f11c344.mp3",
+    "duration_seconds": 0.979
+  },
+  {
+    "target_file": "audio/t1992_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ee0c78d73711440dbe7520af416f3be4.mp3",
+    "duration_seconds": 5.465
+  },
+  {
+    "target_file": "audio/t1993_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b75e0d118d8b4a7792928aa6bd5d5793.mp3",
+    "duration_seconds": 1.509
+  },
+  {
+    "target_file": "audio/t1993_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=ee7ca0279b684749a27a493cdfd14fa9.mp3",
+    "duration_seconds": 1.811
+  },
+  {
+    "target_file": "audio/t1993_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=63280b28fddd4bbaac3eecdda3cc2224.mp3",
+    "duration_seconds": 8.902
+  },
+  {
+    "target_file": "audio/t1543_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=038ea7e988db4365ac91798c14ad3681.mp3",
+    "duration_seconds": 5.338
+  },
+  {
+    "target_file": "audio/t1553_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9c41468ed2ed4072aa9ae42c0412a12f.mp3",
+    "duration_seconds": 5.756
+  },
+  {
+    "target_file": "audio/t1675_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e0b1eed8558f4b1684ea7c25a483e3ac.mp3",
+    "duration_seconds": 9.204
+  },
+  {
+    "target_file": "audio/t1677_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3d266d65f4b1479ca125826087984097.mp3",
+    "duration_seconds": 7.462
+  },
+  {
+    "target_file": "audio/t1712_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b465bb80b34a4f7e903db0622245727a.mp3",
+    "duration_seconds": 9.552
+  },
+  {
+    "target_file": "audio/t1730_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3e5854b69cca4659a474b12568e874fb.mp3",
+    "duration_seconds": 5.674
+  },
+  {
+    "target_file": "audio/t1994_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=e1ed47b412bb453f86a70f062ac69597.mp3",
+    "duration_seconds": 0.914
+  },
+  {
+    "target_file": "audio/t1994_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=47d7ce957da6487ebd303b137715dc2d.mp3",
+    "duration_seconds": 0.827
+  },
+  {
+    "target_file": "audio/t1994_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=76a171ae5cec479993fac88403d86e30.mp3",
+    "duration_seconds": 8.403
+  },
+  {
+    "target_file": "audio/t1995_em.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=af27fe6e8c7a4fdf9355359d51959c7f.mp3",
+    "duration_seconds": 0.955
+  },
+  {
+    "target_file": "audio/t1995_ef.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=3c6613c47cfa47fcae45719736a19fbf.mp3",
+    "duration_seconds": 1.108
+  },
+  {
+    "target_file": "audio/t1995_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=4ae032a9988647278f36bf55e5f204e1.mp3",
+    "duration_seconds": 6.522
+  },
+  {
+    "target_file": "audio/t1734_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=8a8590293b8b436ca23f2ee869499a0b.mp3",
+    "duration_seconds": 8.519
+  },
+  {
+    "target_file": "audio/t1740_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=78606cea54be42119c8400c67141ada7.mp3",
+    "duration_seconds": 10.144
+  },
+  {
+    "target_file": "audio/t1778_df.mp3",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=1ec76ea218d14e92802adc4ab30f2371.mp3",
+    "duration_seconds": 5.117
+  },
+  {
+    "target_file": "audio/t1751_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The combining form kerat-o refers to the cornea in eye terminology, and to hard, keratinized tissue in skin terminology.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=335db22bbe3042e299744cd944abc7e2.mp3",
+    "duration_seconds": 8.3562
+  },
+  {
+    "target_file": "audio/t1800_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "A Wood's lamp emits ultraviolet A light to help examine the skin for certain infections and changes in pigmentation.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=7410ea58aae9453791292f799333fbff.mp3",
+    "duration_seconds": 6.7773
+  },
+  {
+    "target_file": "audio/t1842_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The combining form vestibul-o means vestibule, including the vestibule of the inner ear, which contributes to balance.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=22b5d2d6ea1f4b43a177d5b6c09dd7bb.mp3",
+    "duration_seconds": 6.696
+  },
+  {
+    "target_file": "audio/t1868_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "The suffix geusia means taste. Ageusia means loss of taste, while dysgeusia means distorted taste. The combining form is geusi-o.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=d501d1d8f5cc4741992461af71d12e98.mp3",
+    "duration_seconds": 8.8206
+  },
+  {
+    "target_file": "audio/t1954_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Umami is the savory taste associated with glutamate.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=e7ecbf733fe2410f98740bcd46f99d8d.mp3",
+    "duration_seconds": 3.4568
+  },
+  {
+    "target_file": "audio/t1996_em.mp3",
+    "kind": "glossary_word",
+    "voice": "male",
+    "spoken_text": "Allergen",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=ea67ef1fdcf04f47bffa121227a1e186.mp3",
+    "duration_seconds": 0.8028
+  },
+  {
+    "target_file": "audio/t1996_ef.mp3",
+    "kind": "glossary_word",
+    "voice": "female",
+    "spoken_text": "Allergen",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=94d3fdf986dd46039859f255b01c0fa3.mp3",
+    "duration_seconds": 0.7799
+  },
+  {
+    "target_file": "audio/t1996_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "An allergen is a substance capable of triggering an allergic reaction in a sensitized person.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b94094689596481ab9504e580b838a8f.mp3",
+    "duration_seconds": 5.3376
+  },
+  {
+    "target_file": "audio/t1997_em.mp3",
+    "kind": "glossary_word",
+    "voice": "male",
+    "spoken_text": "Glutamate",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=b19e6c27c3b64c2b9486aa83f12f70bb.mp3",
+    "duration_seconds": 0.9689
+  },
+  {
+    "target_file": "audio/t1997_ef.mp3",
+    "kind": "glossary_word",
+    "voice": "female",
+    "spoken_text": "Glutamate",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=857169a6b38c4cee9d7035cc332b2b0c.mp3",
+    "duration_seconds": 0.889
+  },
+  {
+    "target_file": "audio/t1997_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Glutamate is an amino acid involved in umami taste and is a major excitatory neurotransmitter in the nervous system.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=b899718733df4fbe95b83f97643f18ef.mp3",
+    "duration_seconds": 7.0327
+  },
+  {
+    "target_file": "audio/t1998_em.mp3",
+    "kind": "glossary_word",
+    "voice": "male",
+    "spoken_text": "Vestibulocochlear",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/a8ac8b2188354c44b8d49e6b742d841a/id=da5a9d5c1a5a4573a193207f4d4c98c4.mp3",
+    "duration_seconds": 1.5811
+  },
+  {
+    "target_file": "audio/t1998_ef.mp3",
+    "kind": "glossary_word",
+    "voice": "female",
+    "spoken_text": "Vestibulocochlear",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=9a7557e91fe642b1a98c150829786faa.mp3",
+    "duration_seconds": 1.4005
+  },
+  {
+    "target_file": "audio/t1998_df.mp3",
+    "kind": "glossary_definition",
+    "voice": "female",
+    "spoken_text": "Vestibulocochlear relates to balance and hearing. The vestibulocochlear nerve, cranial nerve eight, carries sensory information from the inner ear.",
+    "status": "GENERATED",
+    "source_slide": "L8 glossary",
+    "changed_sentences": "1",
+    "heygen_url": "https://resource2.heygen.ai/text_to_speech/9306fc40bb5840bdada3ecce02df23d9/bb3243948505450cae701509d5052493/id=a3292e1ab1234cc8b15b6974e13f7f50.mp3",
+    "duration_seconds": 8.9948
+  }
+]

@@ -1,0 +1,9 @@
+﻿term,audio_paths,expected_content,review_action,status
+kerat/o,audio/t1751_df.mp3,Cornea vs keratinized tissue,Check medical root pronunciation and meaning,Requires human audition
+Wood's lamp,audio/t1800_df.mp3,UVA light and diagnostic application,Listen to Wood’s and ultraviolet A,Requires human audition
+vestibul/o,audio/t1842_df.mp3,Vestibule of inner ear and balance,Verify root not mistaken for vestibulocochlear,Requires human audition
+-geusia,audio/t1868_df.mp3,Taste; ageusia and dysgeusia,Check geusia and dysgeusia pronunciation,Requires human audition
+umami,audio/t1954_df.mp3,Savory taste associated with glutamate,Check umami vowel stress,Requires human audition
+allergen,audio/t1996_em.mp3; audio/t1996_ef.mp3; audio/t1996_df.mp3,Correct English word and definition,Review both word voices and definition,Requires human audition
+glutamate,audio/t1997_em.mp3; audio/t1997_ef.mp3; audio/t1997_df.mp3,Correct English word and neurotransmitter definition,Review both word voices and definition,Requires human audition
+vestibulocochlear,audio/t1998_em.mp3; audio/t1998_ef.mp3; audio/t1998_df.mp3,Vestibulocochlear nerve cranial nerve VIII,Check complicated syllables and both word voices,Requires human audition

@@ -1,0 +1,50 @@
+HOW TO PUT THE APP ONLINE FOR iPAD AND ANDROID TABLETS
+======================================================
+
+Why: tablets cannot run the app properly from a zip file. Put it online once,
+send students the link, and each student installs it and saves it for offline use.
+
+A) Put it online (one time, about 5 minutes, on a computer)
+  1. Unzip Medical_Terminology_Lectures_App_v1.0.zip on a computer.
+  2. Open https://app.netlify.com/drop in Chrome or Edge and sign up free
+     (with Google or e-mail) so the link stays permanently.
+  3. Drag the whole folder "Medical_Terminology_Lectures_App" onto the page.
+     Wait until the upload finishes (about 7,300 files, 170 MB).
+  4. Netlify gives you a link such as https://something.netlify.app
+     Under "Site configuration > Change site name" you can make it nicer,
+     e.g. https://kufa-medterms.netlify.app
+  5. Send that link to the students (WhatsApp, Telegram, Google Classroom).
+  To update later: in Netlify open the site > Deploys and drag the new folder
+  in again. Students get the new version automatically next time they open it.
+  (Any other web host also works, for example the university web server:
+   copy the folder as it is.)
+
+B) What each student does (once, on Wi-Fi)
+  iPad / iPhone (Safari):
+    1. Open the link in Safari.
+    2. Tap Share (square with arrow) > Add to Home Screen > Add.
+    3. Open the app from the new "Med Terms" icon.
+    4. On the home page tap "Tablet & offline" > "Save for offline" and wait
+       until it says "All saved". Then it works with no internet.
+  Android tablet / phone (Chrome):
+    1. Open the link in Chrome.
+    2. Tap "Tablet & offline" > "Install app" (or Chrome menu > Install app /
+       Add to Home screen).
+    3. Open the app from the new icon, tap "Tablet & offline" >
+       "Save for offline" and wait until it says "All saved".
+
+Notes
+  - Progress (points, saved words, quiz results) is kept on each device.
+  - Saving everything needs about 170 MB of free space on the tablet.
+  - On a laptop or desktop the zip still works directly: open index.html.
+
+-----------------------------------------------------------------------
+طريقة نشر التطبيق للآيباد وأجهزة أندرويد
+  أ) مرة واحدة على الحاسوب: فك ضغط الملف، ثم افتح https://app.netlify.com/drop
+     وسجّل مجاناً، واسحب مجلد "Medical_Terminology_Lectures_App" كاملاً إلى الصفحة.
+     ستحصل على رابط (مثل https://kufa-medterms.netlify.app) أرسله للطلبة.
+  ب) الطالب (مرة واحدة على Wi-Fi):
+     آيباد: افتح الرابط في Safari ← زر المشاركة ← "إضافة إلى الشاشة الرئيسية"،
+     ثم افتح التطبيق من الأيقونة واضغط "Tablet & offline" ← "Save for offline".
+     أندرويد: افتح الرابط في Chrome ← "Install app" أو القائمة ⋮ ← "تثبيت التطبيق"،
+     ثم "Save for offline". بعدها يعمل التطبيق بدون إنترنت.
