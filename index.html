@@ -1119,7 +1119,7 @@ body.sfs.sfsonly .narr{display:none!important}
 body .shine{animation:none!important;filter:none!important}
 @media (max-width:900px){ body.sfs .sfsnar span{display:none} body.sfs .sfsnar{padding:9px} }
 /* 3. tablets and phones: fit the screen */
-body .instAll,body .desk .instUl{margin:6px 0 0;padding-left:18px;font-size:13.5px;line-height:1.55}.warnBox{background:#FFF3D6;border:1px solid #E8C26A;color:#6B4A00;border-radius:10px;padding:10px 12px;font-size:13.5px;line-height:1.5;margin:0 0 10px}
+body .instAll,body .desk .narr.noexp{display:none!important}.instUl{margin:6px 0 0;padding-left:18px;font-size:13.5px;line-height:1.55}.warnBox{background:#FFF3D6;border:1px solid #E8C26A;color:#6B4A00;border-radius:10px;padding:10px 12px;font-size:13.5px;line-height:1.5;margin:0 0 10px}
 .instAll{grid-column:1 / -1;align-self:stretch;width:100%!important;max-width:none!important;box-sizing:border-box;flex:0 0 auto}
 @media (max-width:900px){
   .bar{flex-wrap:wrap;row-gap:6px}
@@ -1138,7 +1138,7 @@ body .instAll,body .desk .instUl{margin:6px 0 0;padding-left:18px;font-size:13.5
   .ncap .ntext{max-height:2.9em}
 }
 @media (pointer:coarse){ #laySeg{display:none!important} }
-.instUl{margin:6px 0 0;padding-left:18px;font-size:13.5px;line-height:1.55}.warnBox{background:#FFF3D6;border:1px solid #E8C26A;color:#6B4A00;border-radius:10px;padding:10px 12px;font-size:13.5px;line-height:1.5;margin:0 0 10px}
+.narr.noexp{display:none!important}.instUl{margin:6px 0 0;padding-left:18px;font-size:13.5px;line-height:1.55}.warnBox{background:#FFF3D6;border:1px solid #E8C26A;color:#6B4A00;border-radius:10px;padding:10px 12px;font-size:13.5px;line-height:1.5;margin:0 0 10px}
 .instAll{display:block;width:100%;border:0;border-radius:12px;padding:11px 12px;margin:8px 0;font:inherit;font-size:14px;font-weight:700;color:#fff;background:linear-gradient(90deg,#0A6EBD,#0D8A84);cursor:pointer;box-shadow:0 2px 8px rgba(10,110,189,.35)}
 .instAll:hover{filter:brightness(1.08)}.instAll:active{transform:translateY(1px)}
 #sInstBox{padding:0 10px}
@@ -1325,7 +1325,7 @@ body.sfs .stagerow{flex:1 1 auto;min-height:0}
   <aside id="side">
     <div class="brand" id="homeBtn" title="Course overview" role="button" tabindex="0">
       <img class="blogo" src="app_logo.svg" alt="">
-      <div><div class="wm shine">Medical Terminology</div><div class="ver">Version 1.2.13 · Designed by Ahmed Kaftan</div></div>
+      <div><div class="wm shine">Medical Terminology</div><div class="ver">Version 1.2.19 · Designed by Ahmed Kaftan</div></div>
     </div>
     <button class="lvchip" id="lvChip" title="My progress"></button>
     <div id="sInstBox"></div>
@@ -1419,7 +1419,7 @@ body.sfs .stagerow{flex:1 1 auto;min-height:0}
 (function(){
 const A = window.APP, L = A.lectures, TM = A.terms;
 // TM[id] = [term, say, ar, def, defAr, cat, catAr, key(1/0), syllables, parts[[form,en,ar,type]]]
-const APP_VERSION = "1.2.13";
+const APP_VERSION = "1.2.19";
 const COLORS = ["#2E5C9A","#2D7A64","#B0642A","#5B4B9A","#A63D52","#957224","#2B7896","#1D7F7A"];
 const $ = (id) => document.getElementById(id);
 /* ===== Tablet install + offline ===== */
@@ -1969,7 +1969,8 @@ function narrSlide(){
   const wasOn = NR.on;
   NA.pause(); try{ NA.removeAttribute("src"); NA.load(); }catch(e){}
   NR.on = false; narrText(); narrUI();
-  if(wasOn) narrStart();
+  $("narr").classList.toggle("noexp", !narrData());   /* v1.2.19: no teacher explanation for this slide */
+  if(wasOn && narrData()) narrStart();
 }
 function narrWire(){
   $("nPlay").onclick = () => NR.on ? narrPause() : narrStart();
@@ -2021,6 +2022,7 @@ function openPop(id, el){
   { const fx = (window.FACTS||{})[id]; $("pFact").innerHTML = fx ? `💡 ${esc(fx.t)} <small>Source: ${esc(fx.s)}</small>` : ""; $("pFact").style.display = fx ? "" : "none"; }
   const where = L.filter(l => l.terms.includes(id)).map(l => "L" + l.n);
   $("pWhere").textContent = where.length ? "In lecture " + where.join(", ") : "";
+  { const np = ["t0399","t0541"].includes(id); $("pEn").style.display = np ? "none" : ""; }   /* v1.2.19: no pronunciation for prokaryotic / eukaryotic */
   $("pEn").textContent = "🔊 English " + (state.voice==="m" ? "♂" : "♀");
   $("pEn").onclick = () => playEn(id, $("pEn"));
   $("pDefEnB").onclick = () => { if(state.voice === "m") toast("Definitions use the original female recording; a matching male definition has not been recorded."); play(id + "_df", d, "en", $("pDefEnB")); };
@@ -2028,7 +2030,7 @@ function openPop(id, el){
   $("pStar").onclick = (e) => { e.stopPropagation(); starred.has(id) ? starred.delete(id) : starred.add(id); saveStar(); $("pStar").classList.toggle("on", starred.has(id)); if($("drawer").classList.contains("open")) renderList(); };
   const p = $("pop"); p.classList.add("show"); anchor = el;
   place();
-  if(state.autoplay) playEn(id, $("pEn"));
+  if(state.autoplay && !["t0399","t0541"].includes(id)) playEn(id, $("pEn"));
 }
 function place(){
   const p = $("pop"); const vw = innerWidth, vh = innerHeight; const pw = p.offsetWidth, ph = p.offsetHeight;
