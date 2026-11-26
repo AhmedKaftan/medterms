@@ -1,8 +1,8 @@
 /* Medical Terminology â€“ offline support.
    core: the app itself (refreshed when a new version is published)
    media: slides, thumbnails and audio (kept across versions) */
-const VER = "v1221-l2-nopron";
-const CORE = "mt-core-" + VER, MEDIA = "mt-media-v1221-l2-nopron";
+const VER = "v1222-l3-edits";
+const CORE = "mt-core-" + VER, MEDIA = "mt-media-v1222-l3-edits";
 const CORE_FILES = ["./", "index.html", "data.js", "lecq.js", "facts.js", "narr.js", "narr_ar.js", "modules.js", 
   "app_logo.svg", "manifest.webmanifest", "files.json", "icons/icon-192.png", "icons/icon-512.png",
   "icons/apple-touch-icon.png", "icons/icon-maskable-512.png", "fonts/atkinson-hyperlegible-latin-400-italic.woff2", "fonts/atkinson-hyperlegible-latin-400-normal.woff2", "fonts/atkinson-hyperlegible-latin-700-normal.woff2", "fonts/bricolage-grotesque-latin-400-normal.woff2", "fonts/bricolage-grotesque-latin-700-normal.woff2", "fonts/bricolage-grotesque-latin-800-normal.woff2", "fonts/cairo-arabic-400-normal.woff2", "fonts/cairo-arabic-600-normal.woff2", "fonts/cairo-arabic-700-normal.woff2", "fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2", "fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2", "fonts/ibm-plex-sans-latin-400-normal.woff2", "fonts/ibm-plex-sans-latin-500-normal.woff2", "fonts/ibm-plex-sans-latin-600-normal.woff2", "fonts/ibm-plex-sans-latin-700-normal.woff2", "fonts/montserrat-latin-400-normal.woff2", "fonts/montserrat-latin-600-normal.woff2", "fonts/montserrat-latin-800-normal.woff2"];
