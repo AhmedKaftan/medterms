@@ -1,7 +1,7 @@
 /* Medical Terminology â€“ offline support.
    core: the app itself (refreshed when a new version is published)
    media: slides, thumbnails and audio (kept across versions) */
-const VER = "v1233-label-spots-2";
+const VER = "v1234-cards";
 const CORE = "mt-core-" + VER, MEDIA = "mt-media-stable";
 const CORE_FILES = ["./", "index.html", "data.js", "lecq.js", "facts.js", "narr.js", "narr_ar.js", "modules.js", 
   "app_logo.svg", "manifest.webmanifest", "files.json", "icons/icon-192.png", "icons/icon-512.png",
